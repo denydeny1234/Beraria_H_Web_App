@@ -3,7 +3,7 @@
 <span dir="">This is my portfolio for Semester 5 - Internship in ICT&Media Design. Here, I showcase the projects I've worked on, organised by</span> learning outcomes:
 
 * [Professional duties](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Professional-duties)
-* [Situation-oriented](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
+* [Situation-oriented](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Situation-oriented)
 * [Future-oriented organisation](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
 * [Investigative problem solving](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
 * [Personal leadership](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
