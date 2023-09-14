@@ -1,3 +1,2 @@
-* Brainstorm (Discover Phase)
-* Brainstorm (Develop Phase)
-* Concepting document
+* Debriefing
+* Library research
