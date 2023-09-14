@@ -1,6 +1,6 @@
 ### Home
 
-* [Home](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/home)
+* Home
 
 ### Guide
 
