@@ -1,6 +1,6 @@
 # Home
 
-* \[Home\]()
+* \[Home\](<span dir="">https://</span>www.google.com)
 
 # Guide
 
