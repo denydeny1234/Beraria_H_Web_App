@@ -8,4 +8,4 @@
 
 ## Learning outcomes
 
-* \[\]()
+<span dir="">- \[GitHub\](</span><span dir="">https://github.com</span><span dir="">)</span>
