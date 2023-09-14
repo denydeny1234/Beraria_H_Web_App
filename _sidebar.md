@@ -1,6 +1,6 @@
 ### Home
 
-* [Home](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Home)
+* [Home](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/home)
 
 ### Guide
 
@@ -20,11 +20,16 @@
 * Project plan
 * Clickup managment
 
-### **Future-Oriented Organization**
+### Situation-oriented
+
+* Debriefing
+* Library research
+
+### **Future-Oriented Organisation**
 
 * Brainstorm (Discover Phase)
 * Brainstorm (Develop Phase)
-* Concepting document
+* Concept document
 
 ### **Investigative Problem Solving**
 
@@ -52,5 +57,5 @@
 * Media Products
 * Beraria H UI
 * Beraria H UI design principles
-* Desfinition of done
+* Definition of done
 * Feed pulse
