@@ -1,6 +1,6 @@
 # **Welcome**
 
-<span dir="">This is my portfolio for Semester 5 - Internship in ICT&Media Design. Here, I showcase the projects I've worked on, organized by</span> learning outcomes:
+<span dir="">This is my portfolio for Semester 5 - Internship in ICT&Media Design. Here, I showcase the projects I've worked on, organised by</span> learning outcomes:
 
 * [Professional duties](www.google.com)
 * [Situation-oriented](www.google.com)
