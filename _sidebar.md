@@ -8,7 +8,7 @@
 
 ### Learning outcomes
 
-* Professional duties
+* [Professional duties](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Professional-duties)
 * Situation-oriented
 * Future-oriented organisation
 * Investigative problem solving
