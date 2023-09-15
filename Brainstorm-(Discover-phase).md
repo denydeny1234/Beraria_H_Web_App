@@ -24,7 +24,7 @@
 
 <div>
 
-Following my brainstorming session, I understood the necessity of delving deeper into the potential challenges I had identified. Consequently, I embarked on an extensive [library research](www.google.com) journey to explore potential solutions to these issues. To gain a more profound understanding of the problems associated with event-related apps, I created [empathy maps](www.google.com). These empathy maps provided valuable insights into the thoughts, feelings, and pain points of users during the event discovery and ticket purchasing process.
+Following my brainstorming session, I understood the necessity of delving deeper into the potential challenges I had identified. Consequently, I embarked on an extensive [library research](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Library-research) journey to explore potential solutions to these issues. To gain a more profound understanding of the problems associated with event-related apps, I created [empathy maps](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Empathy-maps). These empathy maps provided valuable insights into the thoughts, feelings, and pain points of users during the event discovery and ticket purchasing process.
 
 From the insights gained through the empathy maps, I concluded that users often encounter frustrations related to limited event discoverability, incomplete event information, and a complex ticket purchasing process. These issues can deter potential attendees and hinder their overall event experience. To address these challenges, my approach involves designing an event scheduler app that prioritizes user-friendly navigation, comprehensive event details, and a seamless ticket purchasing process. By focusing on these aspects, I aim to enhance event discoverability, improve user satisfaction, and ultimately create a more engaging and enjoyable event experience. To achieve these goals, I will explore the following key research questions:
 
@@ -49,7 +49,6 @@ From the insights gained through the empathy maps, I concluded that users often 
 </div>
 </div>
 <div>
-
 
 </div>
 </div>
