@@ -18,7 +18,7 @@
 ### Professional duties
 
 * Project plan
-* Clickup managment
+* [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
 
 ### Situation-oriented
 
