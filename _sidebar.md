@@ -24,10 +24,10 @@
 
 * Debriefing
 * Library research
+* Brainstorm (Discover Phase)
 
 ### **Future-Oriented Organisation**
 
-* Brainstorm (Discover Phase)
 * Brainstorm (Develop Phase)
 * Concept document
 
