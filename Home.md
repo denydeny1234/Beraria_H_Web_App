@@ -5,9 +5,9 @@
 * [Professional duties](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Professional-duties)
 * [Situation-oriented](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Situation-oriented)
 * [Future-oriented organisation](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Future-Oriented-Organisation)
-* [Investigative problem solving](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
-* [Personal leadership](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
-* [Targeted interaction](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
+* [Investigative problem solving](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Investigative-Problem-Solving)
+* [Personal leadership](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Personal-leadership)
+* [Targeted interaction](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Targeted-interaction)
 
 ## **How to navigate:**
 
