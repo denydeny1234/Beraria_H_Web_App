@@ -1,4 +1,5 @@
 * [Empathy maps](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Empathy-maps)
+* Competitor analysis
 * Unmoderated survey
 * Interview
 * Persona
