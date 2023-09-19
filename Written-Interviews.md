@@ -1,7 +1,9 @@
 ## Interview questions
 
 * Can you describe a recent experience when you attended an event? What was the event, and what motivated you to attend it? / Puteți descrie o experiență recentă când ați participat la un eveniment? Care a fost evenimentul și ce v-a motivat să participați?
+* 
 * When searching for events to attend, what platforms or methods do you typically use? Why do you prefer these methods? / Când căutați evenimente la care să participați, ce platforme sau metode folosiți în mod obișnuit? De ce preferați aceste metode?
+* 
 * Have you ever encountered challenges or frustrations when trying to discover or learn more about an event? If so, please describe them. / Ați întâmpinat vreodată provocări sau frustrări atunci când ați încercat să descoperiți sau să aflați mai multe despre un eveniment? Dacă da, vă rugăm să le descrieți.
 * What information do you consider essential when deciding to attend an event? Are there any specific details or features you find most valuable? / Ce informații considerați esențiale atunci când decideți să participați la un eveniment? Există detalii sau caracteristici specifice pe care le considerați cele mai valoroase?
 * Can you share any positive or negative experiences related to purchasing event tickets online? What aspects of the ticketing process influenced your perception? / Puteți împărtăși experiențe pozitive sau negative legate de achiziționarea de bilete pentru evenimente online? Ce aspecte ale procesului de achiziționare a biletelor au influențat percepția dumneavoastră?
