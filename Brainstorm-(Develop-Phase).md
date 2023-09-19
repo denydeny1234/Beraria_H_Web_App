@@ -1,6 +1,8 @@
+[Link to my Miro board](https://miro.com/app/board/uXjVMj2Vrlo=/?share_link_id=793269786459)
+
 <span dir="">As I transitioned into the Define phase of the Double Diamond methodology, the pivotal moment had arrived for me to solidify a well-defined concept. In pursuit of this objective, I leveraged the invaluable insights gleaned from my meticulous research endeavors throughout the Discover phase. These insights provided a solid foundation upon which to build a concrete and purposeful project direction.</span>
 
-## Brainstorming Techniques 
+## Brainstorming Techniques
 
 ### Technique 1: Rapid Ideation
 
