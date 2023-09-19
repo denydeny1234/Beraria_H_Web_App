@@ -6,6 +6,8 @@ On 19th of September, I conducted interviews with different people with differen
 
 ## Interview questions
 
+Please write your age, gender and occupation: ................ .
+
  1. Can you describe a recent experience when you attended an event? What was the event, and what motivated you to attend it? / Puteți descrie o experiență recentă când ați participat la un eveniment? Care a fost evenimentul și ce v-a motivat să participați?
  2. When searching for events to attend, what platforms or methods do you typically use? Why do you prefer these methods? / Când căutați evenimente la care să participați, ce platforme sau metode folosiți în mod obișnuit? De ce preferați aceste metode?
  3. Have you ever encountered challenges or frustrations when trying to discover or learn more about an event? If so, please describe them. / Ați întâmpinat vreodată provocări sau frustrări atunci când ați încercat să descoperiți sau să aflați mai multe despre un eveniment? Dacă da, vă rugăm să le descrieți.
