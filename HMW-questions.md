@@ -6,6 +6,6 @@
 
 ![Denisa_Coteanu_BerariaH_HMW](uploads/8abaea9a0c1937e7675686ca017e090b/Denisa_Coteanu_BerariaH_HMW.png)
 
-### <span dir="">How were these questions employed in my research process? </span>
+### <span dir="">How were these questions employed in my research process?</span>
 
-<span dir="">The 'How might we' questions served as a foundational element during my </span>[<span dir="">brainstorming session</span>](www.google.com)<span dir="">. Their purpose was to facilitate the identification of key challenges and opportunities within the research scope. By leveraging these questions, I effectively delineated the problem space and initiated the exploration of innovative solutions. This strategic application of 'How might we' questions aligns with the research methodology undertaken, thereby aiding in the generation of actionable insights.</span>
+<span dir="">The 'How might we' questions served as a foundational element during my </span>[<span dir="">brainstorming session</span>](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Develop-Phase))<span dir="">. Their purpose was to facilitate the identification of key challenges and opportunities within the research scope. By leveraging these questions, I effectively delineated the problem space and initiated the exploration of innovative solutions. This strategic application of 'How might we' questions aligns with the research methodology undertaken, thereby aiding in the generation of actionable insights.</span>
