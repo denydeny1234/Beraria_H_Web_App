@@ -2,6 +2,8 @@
 
 On 19th of September, I conducted interviews with different people with different nationalities and ages. <span dir="">These interview questions have been designed to gather valuable insights from individuals regarding their experiences with event discovery and ticket purchasing. By engaging with respondents, I aim to understand their preferences, challenges, and expectations when it comes to discovering and attending events. These questions delve into topics such as the methods used for event discovery, frustrations encountered during the process, key decision-making factors, and the importance of personalization in event recommendations. The responses will aid in shaping the development of an event scheduler app that prioritizes user-friendliness and an enhanced event experience. Additionally, the questions explore privacy and security concerns, providing valuable information for a user-focused and secure app design.</span>
 
+[HERE IS THE LINK TO THEIR ANSWERS](www.google.com)
+
 ## Interviewee 1
 
 #### User info:
