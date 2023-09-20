@@ -28,3 +28,7 @@
    * Filters are intuitive and easy to use.
 7. **Social media integration:**
    * Social media sharing buttons or links are included on event pages.
+
+### Conclusion
+
+<span dir="">Having developed this document, I've gained a comprehensive understanding of transforming user stories into tangible solutions. My primary objective is to craft an exceptional UX/UI design, prioritizing user-centricity. While my intention is to proceed with the programming phase if time allows, my current emphasis revolves around extensive research to ensure an inclusive and user-friendly design for all.</span>
