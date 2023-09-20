@@ -4,6 +4,71 @@ On 19th of September, I conducted interviews with different people with differen
 
 ## Interviewee 1
 
+#### User info:
+
+* 22 yrs
+* non-binary
+* college student
+
+#### What helped this user?
+
+1. **Motivation for Attendance:** The interviewee's motivation for attending an event was primarily driven by their passion and love for the performing artist. This emphasizes the importance of catering to users' specific interests and preferences when recommending events.
+2. **Preference for Social Media and Event Discovery Apps:** The interviewee's use of social media and event discovery apps highlights the significance of leveraging these platforms for event promotion and ticket sales. Their preference for personalized recommendations aligns with the project's emphasis on enhancing event discoverability.
+3. **Essential Event Information:** The interviewee's requirement for essential event information, such as date, time, location, artist/performer details, and ticket pricing, underscores the need for comprehensive event listings and clear communication.
+4. **Positive Ticket Purchasing Experiences:** The interviewee's positive experiences with quick and secure payment processes and transparent ticket pricing highlight the importance of a seamless ticket purchasing experience in influencing user perceptions positively.
+5. **Interest in Push Notifications:** The interviewee's openness to receiving push notifications for relevant event suggestions presents an opportunity to engage users and drive event attendance.
+
+#### What did not help this user?
+
+1. **Delayed Event Information Updates:** The interviewee's occasional encounters with issues related to event apps not updating information promptly indicate potential frustrations for users. This highlights the importance of real-time event updates and accurate listings.
+2. **Cluttered Interfaces:** The interviewee's frustration with cluttered interfaces emphasizes the need for an intuitive and user-friendly design to enhance the overall user experience.
+3. **Privacy Concerns:** The interviewee's concerns about sharing personal information emphasize the need for robust data protection measures and transparent privacy policies.
+
+## Interviewee 2
+
+#### User info:
+
+* 16 yrs
+* male
+* footballer
+
+#### What helped this user?
+
+1. **Personal Connection:** Attending the motorclub event was driven by a strong personal connection to motorcycles and the excitement of a motorcycle show. Personal interests and passions play a significant role in motivating event attendance.
+2. **Use of Social Media:** The interviewee utilizes social media platforms like Facebook, Instagram, and Twitter to discover events. These platforms seem to be effective in reaching potential event attendees.
+3. **Easy Ticket Purchase:** The interviewee had a positive experience purchasing tickets online, particularly for a concert. The ease and convenience of the ticketing process influenced their decision positively.
+4. **Importance of Specific Information:** The interviewee emphasized the importance of having specific event details, such as the exact location. Lack of specific information about an event's location can be a deterrent.
+
+#### What did not help this user?
+
+1. **Lack of Location Information:** One of the interviewee's frustrations was the absence of specific information regarding the event's location. This missing detail negatively impacted their experience and could deter potential attendees.
+2. **Push Notifications:** While the interviewee received push notifications from event-related apps, they mentioned that these notifications did not significantly impact their event attendance decisions. This suggests that push notifications may not always be effective in motivating attendance.
+3. **Frustration with Incomplete Information:** The interviewee finds it frustrating when event-related apps do not provide comprehensive information about the event. This can be a barrier to making informed decisions about attendance.
+4. **Safety Concerns:** The interviewee highlighted the importance of trust and safety when sharing personal information for online payments. Ensuring the trustworthiness and security of event-related apps is essential to gaining user confidence.
+
+## Interviewee 3
+
+#### User info:
+
+* 28 yrs
+* femaile
+* UX/UI Designer
+
+#### What helped this user?
+
+1. **Motivation to Attend Events:** The interviewee's recent experience attending a live music concert indicates that their motivation to attend events is primarily driven by their passion and enthusiasm for the artist or event. This emotional connection can be leveraged to create engaging event discovery experiences.
+2. **Use of Social Media and Event Websites:** The interviewee's preference for using social media event pages and event websites indicates that these platforms effectively cater to their event discovery needs by offering a diverse range of options and keeping them informed about local events. This insight highlights the importance of leveraging such platforms for event promotion.
+3. **Essential Event Information:** The interviewee emphasizes the importance of having clear event details, such as date, time, ticket price, and lineup, when deciding to attend an event. This underscores the significance of providing comprehensive event information to potential attendees.
+4. **Positive Ticketing Experiences:** Positive experiences with user-friendly ticketing platforms, various payment options, and quick confirmations contribute to a favorable perception of event-related apps. This information suggests that streamlined and transparent ticketing processes are valued by users.
+5. **Effect of Personalization:** The interviewee's positive response to personalized event recommendations suggests that personalization features in event scheduler apps can influence user decisions positively.
+
+#### What did not help this user?
+
+1. **Incomplete Event Descriptions:** The frustration expressed by the interviewee regarding incomplete event descriptions indicates that inadequate event information can discourage potential attendees. Ensuring comprehensive event descriptions should be a priority.
+2. **Negative Ticketing Experiences:** The interviewee's mention of hidden fees and complex checkout processes as negative experiences highlights potential pain points in the ticketing process. Addressing these issues is essential to enhance user satisfaction.
+3. **Excessive Notifications:** Although the interviewee appreciates event notifications aligned with their interests, excessive notifications can lead to annoyance and user disengagement. Striking the right balance in push notifications is crucial.
+4. **Safety Concerns:** The interviewee's concern about inputting card details underscores the importance of prioritizing user data security in event scheduler apps. Implementing robust security measures can alleviate these concerns.
+
 ## Interview questions
 
 Please write your age, gender and occupation: ................ .
