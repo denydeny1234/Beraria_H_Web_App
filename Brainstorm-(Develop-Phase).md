@@ -6,6 +6,8 @@
 
 <span dir="">Following the comprehensive interviews conducted, a discernible pattern of pain points and gains among participants emerged. Recognizing the value of organizing these insights systematically, I opted to construct an affinity map. This strategic visualization served as a vital precursor to the subsequent brainstorming session. By charting the key findings within the affinity map, I could synthesize a cohesive understanding of the challenges and opportunities, which, in turn, facilitated the generation of well-informed solutions to address these issues effectively. This approach ensured that the subsequent ideation phase was grounded in a solid foundation of user insights and research findings.</span>
 
+![Denisa_Coteanu_BerariaH_AffinityMap](uploads/f515a5a6fd211b9162025806edd6b0ab/Denisa_Coteanu_BerariaH_AffinityMap.png)
+
 ## Brainstorming Techniques
 
 ### Technique 1: Rapid Ideation
