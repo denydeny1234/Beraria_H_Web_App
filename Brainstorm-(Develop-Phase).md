@@ -2,6 +2,10 @@
 
 <span dir="">As I transitioned into the Define phase of the Double Diamond methodology, the pivotal moment had arrived for me to solidify a well-defined concept. In pursuit of this objective, I leveraged the invaluable insights gleaned from my meticulous research endeavors throughout the Discover phase. These insights provided a solid foundation upon which to build a concrete and purposeful project direction.</span>
 
+## Affinity map
+
+After the interviews, I could see the main pain point and gain ones. I believed it was a good idea to create an affinity map where I could see them clearly and only after to start my brainstorming session where I could bring more solution to such problems.
+
 ## Brainstorming Techniques
 
 ### Technique 1: Rapid Ideation
