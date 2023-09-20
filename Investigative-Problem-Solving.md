@@ -6,4 +6,4 @@
 * [Design challenge](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-challenge)
 * User stories
 * Definition of done
-* Moscow method
+* [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
