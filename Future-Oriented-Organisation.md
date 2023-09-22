@@ -1,2 +1,2 @@
 * [Brainstorm (Develop Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Develop-Phase))
-* Concept document
+* [Concept document](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Concept-document)
