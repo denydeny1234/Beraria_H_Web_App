@@ -71,6 +71,49 @@ On 19th of September, I conducted written interviews with different people with 
 3. **Excessive Notifications:** Although the interviewee appreciates event notifications aligned with their interests, excessive notifications can lead to annoyance and user disengagement. Striking the right balance in push notifications is crucial.
 4. **Safety Concerns:** The interviewee's concern about inputting card details underscores the importance of prioritizing user data security in event scheduler apps. Implementing robust security measures can alleviate these concerns.
 
+## Interviewee 4
+
+#### User info: 
+
+* 48 yrs
+* female
+* accountant
+
+#### What helped this user?
+
+* Obtaining event information from a single source, the website **https://b365.ro/**, which promotes the latest leisure time ideas and provides historical and current news about the city.
+* Convenience in finding cultural, artistic, and sports events of personal interest on the website, without the need to gather information from multiple publications.
+* Desire for event-specific details such as event description, date, venue, ticket pricing (free or not), guest list, and event schedule.
+* Appreciation for the time-saving benefits, including not having to travel to a physical ticket office.
+* The ability to thoroughly analyze and select event options, seating preferences, and the number of seats.
+* Online card payment and receipt of booking confirmation, offering a seamless ticket purchasing experience.
+
+#### What did not help this user?
+
+_No specific information regarding factors that did not help the user_
+
+## Interviewee 5
+
+#### User info:
+
+* 50 yrs
+* female
+* doctor
+
+#### What helped this user?
+
+* **Motivation for Festival:** The user was motivated by the idea of a low-cost event that offered relaxation through walking, and the event's distance from their home.
+* **Choice of Facebook/Google Login:** The user appreciated the option to log in using Facebook or Google, as they did not have accounts on other social platforms.
+
+#### What did not help this user?
+
+* **Incomplete Information:** The user found it challenging when event listings lacked complete details about the date, location, organizers, and participants.
+* **Reservation Response Timing:** The automated email response received outside of business hours was not ideal for the user.
+* **Address Entry Requirement:** The obligation to input address elements from a predefined list, including city, postal code, and street, posed difficulties when the directory was incomplete.
+* **Platform for Outdoor Events:** The user desired a unified platform where all outdoor event organizers could post listings with filters for date and location, along with event details, facilities, and the option for online reservations and payments.
+* **Personalization:** The user valued personalized recommendations based on their browsing history.
+* **Security Concerns:** Security was essential to the user, who preferred using a prepaid card for online payments and websites that redirected to secure external payment applications like Netopia.
+
 ## Interview questions
 
 Please write your age, gender and occupation: ................ .
