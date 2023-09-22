@@ -2,7 +2,7 @@
 
 On 19th of September, I conducted written interviews with different people with different nationalities and ages, that allowed me to see the [pain points](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Develop-Phase)) of the development of an event app. <span dir="">These interview questions have been designed to gather valuable insights from individuals regarding their experiences with event discovery and ticket purchasing. By engaging with respondents, I aim to understand their preferences, challenges, and expectations when it comes to discovering and attending events. These questions delve into topics such as the methods used for event discovery, frustrations encountered during the process, key decision-making factors, and the importance of personalization in event recommendations. The responses will aid in shaping the development of an event scheduler app that prioritizes user-friendliness and an enhanced event experience. Additionally, the questions explore privacy and security concerns, providing valuable information for a user-focused and secure app design.</span>
 
-[HERE IS THE LINK TO THEIR ANSWERS](www.google.com)
+[HERE IS THE LINK TO THEIR ANSWERS](uploads/5bfb54bafd1b47957ea6d9f7566bc688/Denisa_Coteanu_BerariaH_Written_Interviews.pdf)
 
 ## Interviewee 1
 
@@ -73,7 +73,7 @@ On 19th of September, I conducted written interviews with different people with 
 
 ## Interviewee 4
 
-#### User info: 
+#### User info:
 
 * 48 yrs
 * female
