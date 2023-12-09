@@ -2,6 +2,8 @@
 
 My UI Style Guide serves as a comprehensive resource to ensure a consistent and aesthetically pleasing user interface for the Beraria H web app.
 
+![BerariaH_App_-_Style_guide](uploads/49692c5dc99db5b195be258de3c15dff/BerariaH_App_-_Style_guide.jpg)
+
 ## Process
 
 ### Logo Usage Guidelines
