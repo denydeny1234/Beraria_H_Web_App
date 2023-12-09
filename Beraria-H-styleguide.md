@@ -1,6 +1,6 @@
 ## Introduction 
 
-My UI Style Guide serves as a comprehensive resource to ensure a consistent and aesthetically pleasing user interface for the Beraria H web app.
+My UI Style Guide serves as a comprehensive resource to ensure a consistent and aesthetically pleasing user interface for the Beraria H web app. [Check the Miro link for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572681324298&cot=14)
 
 ![BerariaH_App_-_Style_guide](uploads/49692c5dc99db5b195be258de3c15dff/BerariaH_App_-_Style_guide.jpg)
 
