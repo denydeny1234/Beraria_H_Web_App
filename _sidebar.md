@@ -45,7 +45,7 @@
 
 ### Personal leadership
 
-* Beraria H styleguide
+* [Beraria H styleguide](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-styleguide)
 * Beraria H design principles
 * Usertests
 * Self-tests
@@ -55,7 +55,7 @@
 ### Targeted interaction
 
 * Media Products
-* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-styleguide)
+* [Beraria H UI]()
 * Beraria H UI design principles
 * Definition of done
 * Feed pulse
