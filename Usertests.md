@@ -21,16 +21,32 @@ Check all 3 designs and tell me why you like one better than the other. Be speci
 
 ## Insights
 
-Stick to the third prototype, but also pay atention to: 
-- keeping the cartoon characters, but not so many as in the first version of the prototype
-- pay attention to the scroll directions. Don't make users confused
-- stick to the third's prototype version colour palette, as it is the most suitable for an event app
-- make an automatic slider, rather than a manual one
-- keep the portrait posters, rather than the landscape one
+Upon conducting user testing, the third prototype emerged as a front-runner, capturing valuable insights and affirming its potential alignment with Beraria H's identity. However, there are some parts that I should stick to:
+
+#### Cartoon characters
+
+The cartoon characters, a distinctive feature from the initial prototype, resonated positively with users. However, adjustments are going to be made to strike a balance, ensuring a visually appealing representation without overwhelming the design.
+
+#### Scroll directions
+
+User feedback emphasized the importance of maintaining clear and intuitive scroll directions. Addressing this, I focused on refining the navigation experience, ensuring users could seamlessly explore the homepage without confusion.
+
+#### Colour palette
+
+The color palette from the third prototype stood out as the most fitting for an event app. It not only aligned with Beraria H's brand identity but also contributed to creating a vibrant and dynamic atmosphere conducive to event exploration.
+
+
+#### Automatic slider
+
+Responding to user preferences and to enhance user engagement, I opted for an automatic slider rather than a manual one. This decision was guided by the desire to streamline the user experience, allowing users to effortlessly discover a variety of events without manual interaction.
+
+#### Portrait posters
+
+The user testing phase highlighted a preference for portrait posters over landscape ones. In line with this insight, the third prototype maintained this orientation, ensuring a visually cohesive and preferred display of event content.
 
 ## Conclusion
 
-Continue on working on the third version of the prototype and implement the insights gathered after the user testings. 
+Continue on working on the third version of the prototype and stick to the insights gathered after the user testings. 
 
 
 
