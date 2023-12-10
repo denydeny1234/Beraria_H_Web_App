@@ -6,7 +6,7 @@ As I delved into the design phase, I recognized the critical need to validate an
 
 The initiation of the design process prompted a crucial decision-making phase where I sought to identify the most effective approach for Beraria H's digital identity. To accomplish this, I committed to developing [three distinct prototypes](url) for the homepage. The primary goal was to ascertain which design would best encapsulate Beraria H's identity.
 
-### Gathering clients' feedback
+## Gathering clients' feedback
 
 After presenting the initial designs to Beraria H's clients, the invaluable feedback received played a pivotal role in shaping the next steps of the UI development.
 
