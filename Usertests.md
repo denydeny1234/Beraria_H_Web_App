@@ -58,6 +58,9 @@ After having the insights from my previous testing, I could continue with the pr
 - [Testing video 2: Silviu, 35 years old, new client Beraria H](https://gemoo.com/tools/upload-video/share/592512172197724160?codeId=Pa1LkGnqbzY9b&card=592512168435437568&origin=videolinkgenerator)
 - [Testing video 3: Mara, 25 years old, old client Beraria H](https://gemoo.com/tools/upload-video/share/592512535441219584?codeId=M0G41zEVawbxa&card=592512531666354176&origin=videolinkgenerator)
 
+[Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572730671092&cot=14)
+![BerariaH_App_-_Check_the_UX_UI](uploads/6eceac7b79479000623cf24ddb9aae85/BerariaH_App_-_Check_the_UX_UI.jpg)
+
 
 ## First impression testing method
 
@@ -114,8 +117,7 @@ Incorporating the First Impression Testing Method played a pivotal role in obtai
 The insights gathered from the First Impression Testing Method have provided valuable feedback to enhance the user experience of the Beraria H app. The implementation of these insights into the final prototype aims to address user concerns, improve overall usability, and ensure that the app not only meets but exceeds user expectations.
 
 
-[Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572730671092&cot=14)
-![BerariaH_App_-_Check_the_UX_UI](uploads/6eceac7b79479000623cf24ddb9aae85/BerariaH_App_-_Check_the_UX_UI.jpg)
+
 
 
 
