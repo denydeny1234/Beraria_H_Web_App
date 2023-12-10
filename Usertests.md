@@ -59,9 +59,9 @@ After having the insights from my previous testing, I could continue with the pr
 - [Testing video 3: Mara, 25 years old, old client Beraria H](https://gemoo.com/tools/upload-video/share/592512535441219584?codeId=M0G41zEVawbxa&card=592512531666354176&origin=videolinkgenerator)
 
 
-## First impression testing
+## First impression testing method
 
-I used this method to receive authentic reactions from my participants as they navigate the homepage page for the first time. I want to make sure that participants view Beraria H favorably when they land on the app. If people’s impression does not align with my objectives, I will be able to make strides to change.
+I used this method to receive authentic reactions from my participants as they navigate the homepage for the first time. I want to make sure that participants view Beraria H favorably when they land on the app. If people’s impression does not align with my objectives, I will be able to make strides to change.
 
 ### Questions and tasks:
 
@@ -72,6 +72,17 @@ I used this method to receive authentic reactions from my participants as they n
 - [ ] Take some time to scroll up and down the page but don’t click off of the page. What are your thoughts on the design (images, colors, styling) and layout of this page?
 - [ ] What are three (3) words that you would use to describe this website?
 - [ ] What is the first action you would take on this website? Please explain why you want to take that action & what you expect to see after taking that action. Once you’ve verbally responded, please take that action.
+
+### Insights
+
+- Decide on making the comments section scrollable or not. Tests say a scrollable section is better for the mobile app. **Consequences:** Comments section's scroll overlaying with the page's scroll
+- "Say your impression" option not visible enough. **Possible solution:** make it as a floating feature in the bottom right corner.
+- Add a feature that calculates and displays the total that the user has to pay for reserving the table.
+- Possible filter option for the "Availability", namely "Only a few left"
+- Check the overlayed text with the images.
+- Make whole food and drinks container on the Menu page clickable
+- Add more information for the foods and drinks. Possible solution: check the current QR code on the Beraria H menu where it states nutritional information 
+
 
 
 
