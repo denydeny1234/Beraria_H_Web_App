@@ -51,6 +51,8 @@ Continue on working on the third version of the prototype and stick to the insig
 
 # Testing 2: Check the UX/UI
 
+
+[Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572730671092&cot=14)
 ![BerariaH_App_-_Check_the_UX_UI](uploads/6eceac7b79479000623cf24ddb9aae85/BerariaH_App_-_Check_the_UX_UI.jpg)
 
 
