@@ -110,7 +110,7 @@ Incorporating the First Impression Testing Method played a pivotal role in obtai
 #### Additional Information for Foods and Drinks:
 
 - [ ] **Observation:** Users expressed a need for more information about foods and drinks.
-- [ ] **Possible Solution: ** Explore the current QR code on the Beraria H menu, where nutritional information is stated
+- [ ] **Possible Solution:** Explore the current QR code on the Beraria H menu, where nutritional information is stated
 
 ### Conclusion
 
