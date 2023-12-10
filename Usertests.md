@@ -19,6 +19,19 @@ Check all 3 designs and tell me why you like one better than the other. Be speci
 [Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572725670558&cot=14)
 ![BerariaH_App_-_Choose_design_path_testing](uploads/d202cb9d443125e0e0dcd97fa76f78a6/BerariaH_App_-_Choose_design_path_testing.jpg)
 
+## Insights
+
+Stick to the third prototype, but also pay atention to: 
+- keeping the cartoon characters, but not so many as in the first version of the prototype
+- pay attention to the scroll directions. Don't make users confused
+- stick to the third's prototype version colour palette, as it is the most suitable for an event app
+- make an automatic slider, rather than a manual one
+- keep the portrait posters, rather than the landscape one
+
+## Conclusion
+
+Continue on working on the third version of the prototype and implement the insights gathered after the user testings. 
+
 
 
 
