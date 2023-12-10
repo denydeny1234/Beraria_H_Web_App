@@ -34,7 +34,7 @@
 ### **Investigative Problem Solving**
 
 * [Empathy maps](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Empathy-maps)
-* [Competitor analysis](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Competitor-analyses)
+* [Competitor analyses](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Competitor-analyses)
 * [Written interviews](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Written-Interviews)
 * [Personas](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Personas)
 * [HMW questions](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/HMW-questions)
