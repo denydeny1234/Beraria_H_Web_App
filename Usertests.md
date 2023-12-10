@@ -78,7 +78,30 @@ Incorporating the First Impression Testing Method played a pivotal role in obtai
 - [ ] What are three (3) words that you would use to describe this website?
 - [ ] What is the first action you would take on this website? Please explain why you want to take that action & what you expect to see after taking that action. Once you’ve verbally responded, please take that action.
 
-### Insights
+
+
+## Website navigation method
+
+Users should be able to seamlessly find what they’re looking for on the web app. I used this method in order to diagnose findability issues. If people can’t find what they’re looking for, they won’t be able to achieve their goal. It will help make the product as intuitive as possible. When the app's navigation is intuitive, there will be more conversions, lower bounce rate and enhanced customer satisfaction. Beraria H’ll also be able to save on customer support since customers will able to self serve. 
+
+### Questions and tasks:
+
+- [ ] Find the page with the events. You want to see only the events from this week. What do you do? 
+- [ ] I would like to show you more filters that are not on the prototype at the moment and I need your opinion about how helpful they are, if they are enough for you to help you achieve an easier process of browsing or not. Would you add anything else?
+- [ ] How would you improve the process of filtering?
+- [ ] Choose the event “Horia Brenciu”, try to reserve a table with category C, for 3 people, at 20:30. Speak your thoughts out loud as you look. When you’ve found it proceed to the next task.
+- [ ] How would you improve the process of reserving a table to an event?
+- [ ] Find images from the event and then try to see what the community of Beraria H is saying then leave your own comment. Speak your thoughts out loud as you look. When you’ve found it proceed to the next task.
+- [ ] You want to host a private event. Try to set up everything from the app. Speak your thoughts out loud as you look. When you’ve found it proceed to the next task.
+- [ ] You want to find out more about the story of Beraria H. Try it.
+- [ ] Do you think it is too much information that is overwhelming to you or is it structured in a such good way that it makes everything go smoothly?
+- [ ] How would you improve this page?
+- [ ] You would like to check the menu of the restaurant. You want to eat there tomorrow so try to find the page. 
+- [ ] Check how the Finger food meals are structured. For example, the title of the food “super nachos”, description, price. What else would you like to see there as information about the food, if it is the case?
+- [ ] You wanna find Beraria H’s social media. Where do you look? 
+- [ ] You already have an account and want to login. Try to reserve a table again. Do you think the process is easier?
+
+## Insights
 
 #### Scrollable comments section
 
@@ -112,9 +135,11 @@ Incorporating the First Impression Testing Method played a pivotal role in obtai
 - [ ] **Observation:** Users expressed a need for more information about foods and drinks.
 - [ ] **Possible Solution:** Explore the current QR code on the Beraria H menu, where nutritional information is stated
 
-### Conclusion
+## Conclusion
 
-The insights gathered from the First Impression Testing Method have provided valuable feedback to enhance the user experience of the Beraria H app. The implementation of these insights into the final prototype aims to address user concerns, improve overall usability, and ensure that the app not only meets but exceeds user expectations.
+The insights gathered from the testings have provided valuable feedback to enhance the user experience of the Beraria H app. The implementation of these insights into the final prototype aims to address user concerns, improve overall usability, and ensure that the app not only meets but exceeds user expectations.
+
+
 
 
 
