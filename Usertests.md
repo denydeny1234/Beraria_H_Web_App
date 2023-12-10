@@ -51,6 +51,24 @@ Continue on working on the third version of the prototype and stick to the insig
 
 # Testing 2: Check the UX/UI
 
+After having the insights from my previous testing, I could continue with the prototype and fully develop it in Figma. After adding all the features I have planned, I underwent testings again with new clients Beraria H, but also old ones, using two different methods. 
+
+## First impression testing
+
+I used this method to receive authentic reactions from my participants as they navigate the homepage page for the first time. I want to make sure that participants view Beraria H favorably when they land on the app. If people’s impression does not align with my objectives, I will be able to make strides to change.
+
+### Questions and tasks:
+
+- [ ] Without clicking, scroll up and down the page. At first glance, what is the purpose of this website? 
+- [ ] What, if anything, draws your attention or stands out to you? Be specific.
+- [ ] What do you think you can do on this website?
+- [ ] Is there enough information to understand the purpose of this website? If not, what should be included to make it clear? Be specific.
+- [ ] Take some time to scroll up and down the page but don’t click off of the page. What are your thoughts on the design (images, colors, styling) and layout of this page?
+- [ ] What are three (3) words that you would use to describe this website?
+- [ ] What is the first action you would take on this website? Please explain why you want to take that action & what you expect to see after taking that action. Once you’ve verbally responded, please take that action.
+
+
+
 
 [Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572730671092&cot=14)
 ![BerariaH_App_-_Check_the_UX_UI](uploads/6eceac7b79479000623cf24ddb9aae85/BerariaH_App_-_Check_the_UX_UI.jpg)
