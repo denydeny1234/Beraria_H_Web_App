@@ -61,7 +61,9 @@ After having the insights from my previous testing, I could continue with the pr
 
 ## First impression testing method
 
-I used this method to receive authentic reactions from my participants as they navigate the homepage for the first time. I want to make sure that participants view Beraria H favorably when they land on the app. If people’s impression does not align with my objectives, I will be able to make strides to change.
+Incorporating the First Impression Testing Method played a pivotal role in obtaining authentic reactions from participants as they explored the Beraria H app's homepage for the first time. The primary objective was to ensure that users formed favorable impressions upon landing on the app, aligning with the overall design goals. This method served as a crucial step for the effectiveness of the user interface in capturing attention and conveying the desired brand image.
+
+
 
 ### Questions and tasks:
 
@@ -75,16 +77,41 @@ I used this method to receive authentic reactions from my participants as they n
 
 ### Insights
 
-- Decide on making the comments section scrollable or not. Tests say a scrollable section is better for the mobile app. **Consequences:** Comments section's scroll overlaying with the page's scroll
-- "Say your impression" option not visible enough. **Possible solution:** make it as a floating feature in the bottom right corner.
-- Add a feature that calculates and displays the total that the user has to pay for reserving the table.
-- Possible filter option for the "Availability", namely "Only a few left"
-- Check the overlayed text with the images.
-- Make whole food and drinks container on the Menu page clickable
-- Add more information for the foods and drinks. Possible solution: check the current QR code on the Beraria H menu where it states nutritional information 
+#### Scrollable comments section
 
+- [ ] **Observation:** Tests indicated that a scrollable comments section is preferable for the mobile app.
+- [ ] **Consequences:** Scrollable comments overlaying with the page's scroll.
+- [ ] **Possible solution:** Implement a solution to address the overlay issue while maintaining the scrollable feature for improved mobile usability.
 
+#### Visibility of "Say Your Impression" Option:
 
+- [ ] **Observation:** The "Say Your Impression" option was not visible enough.
+- [ ] **Possible solution:** Transform it into a floating feature in the bottom right corner to enhance visibility and accessibility.
+
+#### Total Reservation Cost Calculation:
+
+- [ ] **Recommendation:** Introduce a feature that calculates and displays the total cost for reserving a table, enhancing transparency for users.
+
+#### Filter Option for Availability:
+
+- [ ] **Suggestion:** Consider adding a filter option for "Availability," such as "Only a Few Left," to streamline user choices.
+
+#### Overlayed Text with Images:
+
+- [ ] **Check:** Evaluate the overlayed text with images to ensure clarity and readability.
+
+#### Clickable Food and Drinks Container:
+
+- [ ] **Improvements:** Make the entire food and drinks container on the Menu page clickable for a more intuitive user experience.
+
+#### Additional Information for Foods and Drinks:
+
+- [ ] **Observation:** Users expressed a need for more information about foods and drinks.
+- [ ] **Possible Solution: ** Explore the current QR code on the Beraria H menu, where nutritional information is stated
+
+### Conclusion
+
+The insights gathered from the First Impression Testing Method have provided valuable feedback to enhance the user experience of the Beraria H app. The implementation of these insights into the final prototype aims to address user concerns, improve overall usability, and ensure that the app not only meets but exceeds user expectations.
 
 
 [Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572730671092&cot=14)
