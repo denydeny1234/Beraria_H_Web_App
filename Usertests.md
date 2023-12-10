@@ -51,6 +51,8 @@ Continue on working on the third version of the prototype and stick to the insig
 
 # Testing 2: Check the UX/UI
 
+![BerariaH_App_-_Check_the_UX_UI](uploads/6eceac7b79479000623cf24ddb9aae85/BerariaH_App_-_Check_the_UX_UI.jpg)
+
 
 
 
