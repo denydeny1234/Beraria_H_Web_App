@@ -2,7 +2,7 @@
 
 As I delved into the design phase, I recognized the critical need to validate and refine each aspect of the project to ensure it resonated with Beraria H's unique identity. This imperative led me to conduct user tests, a pivotal step in crafting a user-centric and brand-aligned design.
 
-## Testing 1: Choose design path
+# Testing 1: Choose design path
 
 The initiation of the design process prompted a crucial decision-making phase where I sought to identify the most effective approach for Beraria H's digital identity. To accomplish this, I committed to developing [three distinct prototypes](url) for the homepage. The primary goal was to ascertain which design would best encapsulate Beraria H's identity.
 
@@ -47,6 +47,11 @@ The user testing phase highlighted a preference for portrait posters over landsc
 ## Conclusion
 
 Continue on working on the third version of the prototype and stick to the insights gathered after the user testings. 
+
+
+# Testing 2: Check the UX/UI
+
+
 
 
 
