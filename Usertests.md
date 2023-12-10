@@ -59,8 +59,7 @@ After having the insights from my previous testing, I could continue with the pr
 - [Testing video 3: Mara, 25 years old, old client Beraria H](https://gemoo.com/tools/upload-video/share/592512535441219584?codeId=M0G41zEVawbxa&card=592512531666354176&origin=videolinkgenerator)
 
 [Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572730671092&cot=14)
-![BerariaH_App_-_Check_the_UX_UI](uploads/6eceac7b79479000623cf24ddb9aae85/BerariaH_App_-_Check_the_UX_UI.jpg)
-
+![BerariaH_App_-_Check_the_UX_UI-2](uploads/3d5ff3a39b0d3a1a15fc20bd1dd3ec02/BerariaH_App_-_Check_the_UX_UI-2.jpg)
 
 ## First impression testing method
 
