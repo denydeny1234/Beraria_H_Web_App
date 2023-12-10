@@ -53,6 +53,9 @@ Continue on working on the third version of the prototype and stick to the insig
 
 After having the insights from my previous testing, I could continue with the prototype and fully develop it in Figma. After adding all the features I have planned, I underwent testings again with new clients Beraria H, but also old ones, using two different methods. 
 
+### Users testings
+[Testing video: Joao, 22 years old, new client Beraria H](file:///Users/denydeny/Documents/Fontys/Internship/Testing/Edited/Joao_Testing_Edited.mp4)
+
 ## First impression testing
 
 I used this method to receive authentic reactions from my participants as they navigate the homepage page for the first time. I want to make sure that participants view Beraria H favorably when they land on the app. If people’s impression does not align with my objectives, I will be able to make strides to change.
