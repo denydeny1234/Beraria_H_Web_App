@@ -19,4 +19,4 @@ This competitor analysis aims to provide valuable insights into the strengths an
 
 ## Other Competitors
 
-Check the document for more Beraria H competitors
+[Check the document for more Beraria H competitors](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/uploads/a3019242800c2579242d30e0e4611f26/Denisa_Coteanu_BerariaH_CompetitorAnalysis.pdf)
