@@ -54,7 +54,10 @@ Continue on working on the third version of the prototype and stick to the insig
 After having the insights from my previous testing, I could continue with the prototype and fully develop it in Figma. After adding all the features I have planned, I underwent testings again with new clients Beraria H, but also old ones, using two different methods. 
 
 ### Users testings
-[Testing video: Joao, 22 years old, new client Beraria H](file:///Users/denydeny/Documents/Fontys/Internship/Testing/Edited/Joao_Testing_Edited.mp4)
+- [Testing video 1: Joao, 22 years old, new client Beraria H](https://gemoo.com/tools/upload-video/share/592510051024932864?codeId=Ml2AadqJ0gbwY&card=592510046826434560)
+- [Testing video 2: Silviu, 35 years old, new client Beraria H](https://gemoo.com/tools/upload-video/share/592512172197724160?codeId=Pa1LkGnqbzY9b&card=592512168435437568&origin=videolinkgenerator)
+- [Testing video 3: Mara, 25 years old, old client Beraria H](https://gemoo.com/tools/upload-video/share/592512535441219584?codeId=M0G41zEVawbxa&card=592512531666354176&origin=videolinkgenerator)
+
 
 ## First impression testing
 
