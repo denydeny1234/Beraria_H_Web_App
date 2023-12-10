@@ -20,3 +20,50 @@ This competitor analysis aims to provide valuable insights into the strengths an
 ## Other Competitors
 
 [Check the document for more Beraria H competitors](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/uploads/a3019242800c2579242d30e0e4611f26/Denisa_Coteanu_BerariaH_CompetitorAnalysis.pdf)
+
+
+## Insights
+
+### Colour palette
+
+Use dark colours in combination with a vibrant one as it emphasises the events' images.
+
+### Reserve table option
+
+Add a reserve table even if the user is not interested in seeing a show.
+
+### Language option
+
+Make the app more accessible even for international people.
+
+### About us section 
+
+Make an about us section from different perspectives.
+
+### Filter with the food categories.
+
+Make it easier for the user to check the menu with a good filtering and nice images. 
+
+### Summaries section on the homepage
+
+Make the navigation easier with a summary of each page directly on the homepage.
+
+### Menu split in categories
+
+Make the menu easy to browse by splitting it into the foods and drinks.
+
+### Floating menu
+
+Make a shortcut in the right bottom corner.
+
+### Good filtering
+
+Help users find their desired event easier and faster with a good filtering.
+
+### View all shows option
+
+Make a section on the homepage that is easy to see and sends the user to all the events.
+
+### Good descriptions
+
+Make it clear to users what they are going to find at each event with a good description of the activities.
