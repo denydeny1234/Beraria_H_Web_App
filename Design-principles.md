@@ -16,3 +16,9 @@ Design principles play a pivotal role in shaping effectiveness of the Beraria H 
 
 ## Overview
 The web app's design is delicately aligned with the brand identity of Beraria H. The web app serves as a digital extension of the unique personality of Beraria H, embodying its vibrant atmosphere and commitment to providing an exceptional customer experience.
+
+## Key brand attributes
+
+[Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572823466574&cot=14)
+![BerariaH_App_-_Brand_alignment_design_principle](uploads/a8fe8c0cda88d1e86e4b34a7e70503d8/BerariaH_App_-_Brand_alignment_design_principle.jpg)
+
