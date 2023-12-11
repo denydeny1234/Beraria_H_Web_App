@@ -25,3 +25,16 @@ The web app's design is delicately aligned with the brand identity of Beraria H.
 [Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572823466574&cot=14)
 ![BerariaH_App_-_Brand_alignment_design_principle](uploads/a8fe8c0cda88d1e86e4b34a7e70503d8/BerariaH_App_-_Brand_alignment_design_principle.jpg)
 
+
+# User centred design
+
+## Emphasize the importance of recognising and Meeting User Needs
+I am aware of how critical it is to centre the design process around the needs of Beraria H's users. Their needs are not only important to understand and address, but they also serve as a guiding principle for all design decisions.
+
+### Method
+- [ ] **User personas:** I created comprehensive user personas that accurately reflect the wide variety of people who will use the Beraria H web application. 
+
+[Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572830529856&cot=14)
+![BerariaH_App_-_User_centered_design_principle](uploads/883284a04b50e6411f164d88fd5fd20d/BerariaH_App_-_User_centered_design_principle.jpg)
+
+
