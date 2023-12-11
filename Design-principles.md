@@ -60,6 +60,22 @@ See how the reservation process came to an end below, right before testing start
 ![BerariaH_App_-_Ensuring_clarity_in_users__39__actions](uploads/5bd91f0132896d0bdd0bb06d7efc0f9d/BerariaH_App_-_Ensuring_clarity_in_users__39__actions.jpg)
 
 
+# Mobile design principles
+
+Let's now turn our attention to mobile design and explore some design principles that are especially compatible with the special opportunities and challenges that come with mobile interfaces.
+
+### Simplified Content Prioritisation: 
+Mobile design must quickly capture users' attention because human attention spans are short, namely just a few seconds. Displaying content and functionality on smaller screens requires careful consideration due to their limited real estate. The principle of "Less is more" should be followed in order to create a clear hierarchy and present only the most important information to users without overloading them.
+
+### Touchscreen Target Sizes: 
+The significance of having suitable-sized touchscreen targets is highlighted by the fact that thumb usage is common on smartphones. I have to take into account the ergonomic difficulties that users encounter when navigating  our mobile interface, especially when using their thumbs.
+
+Important industry standards, like Microsoft's proposal for 34 x 26 pixels and Apple's recommendation for a minimum size of 44 × 44 pixels, offer useful baselines. It's not enough to simply meet these size requirements, though; the distance between touch targets is just as important. Maintaining a sufficient distance between targets reduces the possibility that users will inadvertently press the incorrect button or initiate several actions at once.
+
+![BerariaH_App_-_Touchscreen_Target_Sizes](uploads/1d21077eb3d40c154d99579b1bbf370a/BerariaH_App_-_Touchscreen_Target_Sizes.jpg)
+
+
+
 
 
 
