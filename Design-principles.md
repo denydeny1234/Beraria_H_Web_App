@@ -35,7 +35,7 @@ Building on this, a special area has been designed for users to explore all upco
 
 
 ## Less is more
-My design philosophy prioritises simplicity and follows the maxim "less is more." This method avoids unnecessary finishing touches in favour of a clear, simple interface. The web application purposefully uses a dark theme to highlight bright photos, especially those that represent events. My goal is to create a visually compelling experience that prioritises essential elements while maintaining a sense of sophistication and ease of navigation, taking inspiration from Netflix's minimalist aesthetics.
+My design philosophy prioritises simplicity and follows the rule of "less is more." This method avoids unnecessary finishing touches in favour of a clear, simple interface. The web application purposefully uses a dark theme to highlight bright photos, especially those that represent events. My goal is to create a visually compelling experience that prioritises essential elements while maintaining a sense of sophistication and ease of navigation, taking inspiration from Netflix's minimalist aesthetics.
 
 ![Screenshot_2023-12-11_at_18.41.17](uploads/e4333539f8e9f25ec63d1c7b15867112/Screenshot_2023-12-11_at_18.41.17.png)
 
