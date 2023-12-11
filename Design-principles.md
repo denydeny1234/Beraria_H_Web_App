@@ -37,4 +37,10 @@ I am aware of how critical it is to centre the design process around the needs o
 [Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572830529856&cot=14)
 ![BerariaH_App_-_User_centered_design_principle](uploads/883284a04b50e6411f164d88fd5fd20d/BerariaH_App_-_User_centered_design_principle.jpg)
 
+## User Research and Testing Methods Used
+Talk about the User Research and Testing Methods Used:
+By using rigorous user research and testing methods, I am able to demonstrate my dedication to user-centered design and make sure that the Beraria H web app both fulfils and exceeds user expectations.
+
+### Method
+- [ ] **User tests:** Conduct regular usability testing sessions with real users to evaluate the app's ease of use and identify areas for improvement.
 
