@@ -56,6 +56,6 @@
 
 * Media Products
 * Beraria H UI
-* Beraria H UI design principles
+* [Beraria H UI design principles](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-principles)
 * Definition of done
 * Feed pulse
