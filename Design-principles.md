@@ -19,8 +19,8 @@ The web app's design is delicately aligned with the brand identity of Beraria H.
 
 ## Key brand attributes
 
-- [ ] The design incorporates authentic visual elements that reflect the rustic and warm ambiance of Beraria H, high-quality images showcasing. The interior beer atmosphere and events contribute to the real representation of the venue.
-- [ ] Dynamic color schemes and engaging visuals invoke the lively atmosphere associated with Beraria H.
+- [ ] **Authenticity: **The design incorporates authentic visual elements that reflect the rustic and warm ambiance of Beraria H, high-quality images showcasing. The interior beer atmosphere and events contribute to the real representation of the venue.
+- [ ] **Lively atmosphere: **Dynamic color schemes and engaging visuals invoke the lively atmosphere associated with Beraria H.
 
 [Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572823466574&cot=14)
 ![BerariaH_App_-_Brand_alignment_design_principle](uploads/a8fe8c0cda88d1e86e4b34a7e70503d8/BerariaH_App_-_Brand_alignment_design_principle.jpg)
