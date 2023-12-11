@@ -31,6 +31,6 @@ The homepage, which has a carousel indicating the possibility of multiple events
 
 Building on this, a special area has been designed for users to explore all upcoming events at Beraria H. right below the carousel. This deliberate design decision guarantees an engaging introduction by starting the user journey with an events-focused approach, which fits in perfectly with the core of Beraria H's offerings. The goal is to grab users' attention right away and lead them logically through the wide variety of events that are offered.
 
-![BerariaH_App_-_Establish_a_distinct_visual_hierarchy](uploads/0888983146d82b0c728aad1d93d29a02/BerariaH_App_-_Establish_a_distinct_visual_hierarchy.jpg)
+![BerariaH_App_-_Establish_a_distinct_visual_hierarchy-2](uploads/15b88d578852ef198249ec45887f0fcf/BerariaH_App_-_Establish_a_distinct_visual_hierarchy-2.jpg)
 
 
