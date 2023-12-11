@@ -78,6 +78,34 @@ Important industry standards, like Microsoft's proposal for 34 x 26 pixels and A
 ## Increasing Interface Elements' Visibility
 Making sure interface elements are clear is crucial in a world where mobile devices are everywhere. For best visibility, contrast between background and content must be carefully considered. We can look to the [Web Content Accessibility Guidelines](https://webaim.org/resources/contrastchecker/) established by the W3C for guidance on contrast ratios, especially with regard to text and images. By prioritising accessibility, my design not only satisfies aesthetic standards but also accommodates users in a variety of contexts and settings.
 
+# Instagram-like functionality
+
+## The community of Beraria H
+A unique feature influenced by Instagram's charm was incorporated into the Beraria H web app to create a sense of community. With the help of this feature, users can view visually captivating pictures from the most recent performances of their favourite artists and participate in interactive conversations by leaving comments. Users are encouraged to share their ideas by using a "Share" button to easily expand the experience and an easy-to-use "Add to Favourites" option for quick personalisation.
+
+Instagram stands out in today's digital landscape as a platform that is widely used and deeply integrated into users' daily online routines. It was intentional to include an Instagram-like feature in the Beraria H app, utilising its well-known design language. My goal is to provide an experience that seamlessly blends into my audience's digital lives by enhancing user comfort through the use of a design that echoes the familiarity of Instagram. This deliberate decision strengthens a sense of community and shared experiences within the Beraria H platform in addition to leveraging user familiarity.
+
+![BerariaH_App_-_Instagram_life_feature](uploads/caa15378390f0881f69720cc82f6380e/BerariaH_App_-_Instagram_life_feature.jpg)
+
+## Colours
+
+Instagram's design strategy has made effective use of colour, with a modern and vibrant colour scheme that adheres to a strict colour usage policy. The prevailing monochromatic style acts as a blank canvas on which each profile can subtly specify their own colour palette. Colour is used carefully to convey updates and interactions, giving each user a sense of personalisation and uniqueness thanks to this deliberate restraint.
+
+Beraria H takes a similar tack, adopting an interface that is primarily black. When certain elements, like buttons, texts, and icons, demand the user's attention, they add a dynamic touch by using the solid colour orange. The app's purposeful use of colour minimalism makes sure that these emphasised elements catch the user's attention against the calm background.
+
+The colour orange was chosen deliberately to strategically align with the values that the company aims to uphold. Orange is a colour that represents energy, vibrancy, and innovation. It also serves as a visual representation of the company's forward-thinking and dynamic nature. This vibrant and warm colour is purposefully used to stimulate creativity and excitement, which is consistent with my dedication to cutting-edge solutions and an engaging user experience.
+
+## Consistency
+People are naturally drawn to patterns and consistency, and this preference for regularity affects the design world. As a fundamental design principle that provides users with a navigational anchor, consistency stands out. Users get accustomed to a product's design language and know what to expect when they interact with it, thanks to consistent design.
+
+Instagram's design philosophy is a clear illustration of this idea in action. Instagram posts follow a unique format that is carefully designed. This intentional consistency is a strategic decision rather than a restriction. It is essential to maintaining a consistent user experience because it offers a stable and dependable interface independent of the distinctive content that each user creates. That is why after testing and various opinions regarding the comments section, I took the decision of making it non-scrollable in order to respect Instagram's style.
+
+![BerariaH_App_-_Scrollable_or_not](uploads/97808e2915f4437d2f50e284690af139/BerariaH_App_-_Scrollable_or_not.jpg)
+
+
+
+
+
 
 
 
