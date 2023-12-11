@@ -37,7 +37,32 @@ Building on this, a special area has been designed for users to explore all upco
 ## Less is more
 My design philosophy prioritises simplicity and follows the rule of "less is more." This method avoids unnecessary finishing touches in favour of a clear, simple interface. The web application purposefully uses a dark theme to highlight bright photos, especially those that represent events. My goal is to create a visually compelling experience that prioritises essential elements while maintaining a sense of sophistication and ease of navigation, taking inspiration from Netflix's minimalist aesthetics.
 
-![Screenshot_2023-12-11_at_18.41.17](uploads/e4333539f8e9f25ec63d1c7b15867112/Screenshot_2023-12-11_at_18.41.17.png)
+![Screenshot_2023-12-11_at_18.41.17](uploads/e4333539f8e9f25ec63d1c7b15867112/Screenshot_2023-12-11_at_18.41.17.png) 
+
+## Using straightforward language
+Simulating the aforementioned design principle, simplicity is essential when creating content that is focused on the user. Prioritise using simple language over technical jargon to communicate with users who are frequently busy, on the go, and managing multiple tasks. Choosing words that closely correspond with users' thoughts improves the design's usability and accessibility.
+
+When choosing simple language for the design, keep these five things in mind:
+
+- [ ] **Target Group and Design Purpose:** Consider the identity, background knowledge, needs, and goals of your communication's audience when crafting your message.
+- [ ] **Structural Considerations:** Research common communication structures to make sure your content makes sense to readers and is arranged in an approachable manner.
+- [ ] **Design Layout:** To improve the visual appeal and comprehension of the content, pay close attention to the typography, layout, and information graphics.
+- [ ] **Expression Elements:** Think about the verb tenses, sentence structure, jargon, and word selections that will help your point be understood clearly.
+- [ ] Evaluation and Usability Testing: To make sure your content is clear, concise, and user-friendly, have a new pair of eyes check it and carry out usability tests.
+
+Essentially, the secret is to use language in your design that is clear and consistent in order to reduce ambiguity and improve the user experience overall. Following these guidelines helps you make sure that the ideas and requirements of your wide range of users are easily met by the content you produce.
+
+## Ensuring clarity in users' actions
+This fundamental idea focuses on eliminating uncertainty from user interactions in order to avoid any kind of misinterpretation. Consider a situation in which a user attempts to book a table for an upcoming event, but is unsure if the actions they took actually completed the reservation process. Because delivering a smooth and satisfying user experience is my top priority, my design philosophy works to address such situations.
+
+See how the reservation process came to an end below, right before testing started. Explore the iterations used to improve this important step, which demonstrates my dedication to perfecting every detail for the most convenient and effective experience. By adhering to this principle, I aim to clarify any uncertainties users might have and guarantee that each action is not only validated but also completely final.
+
+![BerariaH_App_-_Ensuring_clarity_in_users__39__actions](uploads/5bd91f0132896d0bdd0bb06d7efc0f9d/BerariaH_App_-_Ensuring_clarity_in_users__39__actions.jpg)
+
+
+
+
+
 
 
 
