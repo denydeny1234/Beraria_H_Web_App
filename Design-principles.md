@@ -31,6 +31,14 @@ The homepage, which has a carousel indicating the possibility of multiple events
 
 Building on this, a special area has been designed for users to explore all upcoming events at Beraria H. right below the carousel. This deliberate design decision guarantees an engaging introduction by starting the user journey with an events-focused approach, which fits in perfectly with the core of Beraria H's offerings. The goal is to grab users' attention right away and lead them logically through the wide variety of events that are offered.
 
+
 ![BerariaH_App_-_Establish_a_distinct_visual_hierarchy-3](uploads/d5c7ef80015c7c86951dafc6afe734ec/BerariaH_App_-_Establish_a_distinct_visual_hierarchy-3.jpg)
+
+
+## Less is more
+My design philosophy prioritises simplicity and follows the maxim "less is more." This method avoids unnecessary finishing touches in favour of a clear, simple interface. The web application purposefully uses a dark theme to highlight bright photos, especially those that represent events. My goal is to create a visually compelling experience that prioritises essential elements while maintaining a sense of sophistication and ease of navigation, taking inspiration from Netflix's minimalist aesthetics.
+
+![Screenshot_2023-12-11_at_18.41.17](uploads/e4333539f8e9f25ec63d1c7b15867112/Screenshot_2023-12-11_at_18.41.17.png)
+
 
 
