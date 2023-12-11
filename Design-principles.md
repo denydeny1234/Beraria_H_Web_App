@@ -12,35 +12,25 @@ Design principles play a pivotal role in shaping effectiveness of the Beraria H 
 - [ ] - **Innovation:**  Support creative solutions and forward-thinking design approaches that elevate Beraria h’s web app above industry standards. 
 - [ ] - **Adaptability:** Create a design foundation that can evolve with technological advances user feedback and the expansion of Beraria H products.
 
-# Brand alignment
+# General design principles
+The development of designs that are both enjoyable and user-friendly is backed by UX principles. These guidelines serve as a compass, giving me essential direction as I select, create, and organise the components and tasks for my project. Essentially, design principles serve as the foundation of UX design, forming the user experience and influencing my endeavours' overall success.
 
-## Overview
-The web app's design is delicately aligned with the brand identity of Beraria H. The web app serves as a digital extension of the unique personality of Beraria H, embodying its vibrant atmosphere and commitment to providing an exceptional customer experience.
+## Meet the users' needs
+Improving the user's experience with my product is the goal. Understanding what users are looking for is crucial, and user testing helps with this process. Although it might be tempting to create an interface that reflects my tastes, doing so might not be in line with the needs of the user, which would go against the main goal of creating an app that helps them.
 
-## Key brand attributes
+I conducted multiple user tests and made multiple iterations, so I can say with confidence that my application provides a delightful user experience.
 
-- [ ] **Authenticity: **The design incorporates authentic visual elements that reflect the rustic and warm ambiance of Beraria H, high-quality images showcasing. The interior beer atmosphere and events contribute to the real representation of the venue.
-- [ ] **Lively atmosphere: **Dynamic color schemes and engaging visuals invoke the lively atmosphere associated with Beraria H.
+![BerariaH_App_-_Double_diamond_method](uploads/afcec77caec45b34cda6ce7fd85236d7/BerariaH_App_-_Double_diamond_method.jpg)
 
-[Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572823466574&cot=14)
-![BerariaH_App_-_Brand_alignment_design_principle](uploads/a8fe8c0cda88d1e86e4b34a7e70503d8/BerariaH_App_-_Brand_alignment_design_principle.jpg)
+## Establish a distinct visual hierarchy
+Users can navigate the interface with ease thanks to this guiding design principle. This seamless experience is made possible by a structured architecture, in which the main sections, like the hamburger menu, form the top level and are followed by lower layers. In a logical hierarchy, the homepage, for example, represents the second level. 
+
+Setting priorities is very important, which means that the most important content should come first in the user journey. Later discussions will delve deeper into this idea.
+
+The homepage, which has a carousel indicating the possibility of multiple events in a single day, is a key component of this structure. This homepage carousel is the main attraction, drawing users' attention to the main features. It is placed strategically. The concept that customers can book a table for a number of events taking place on the same day is conveyed clearly.
+
+Building on this, a special area has been designed for users to explore all upcoming events at Beraria H. right below the carousel. This deliberate design decision guarantees an engaging introduction by starting the user journey with an events-focused approach, which fits in perfectly with the core of Beraria H's offerings. The goal is to grab users' attention right away and lead them logically through the wide variety of events that are offered.
 
 
-# User centred design
 
-## Emphasize the importance of recognising and Meeting User Needs
-I am aware of how critical it is to centre the design process around the needs of Beraria H's users. Their needs are not only important to understand and address, but they also serve as a guiding principle for all design decisions.
-
-### Method
-- [ ] **User personas:** I created comprehensive user personas that accurately reflect the wide variety of people who will use the Beraria H web application, namely persons that enjoy attending events or eating out.
-
-[Check Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764572830529856&cot=14)
-![BerariaH_App_-_User_centered_design_principle](uploads/883284a04b50e6411f164d88fd5fd20d/BerariaH_App_-_User_centered_design_principle.jpg)
-
-## User Research and Testing Methods Used
-Talk about the User Research and Testing Methods Used:
-By using rigorous user research and testing methods, I am able to demonstrate my dedication to user-centered design and make sure that the Beraria H web app both fulfils and exceeds user expectations.
-
-### Method
-- [ ] **User tests:** Conduct regular usability testing sessions with real users to evaluate the app's ease of use and identify areas for improvement.
 
