@@ -103,8 +103,23 @@ Instagram's design philosophy is a clear illustration of this idea in action. In
 ![BerariaH_App_-_Scrollable_or_not](uploads/97808e2915f4437d2f50e284690af139/BerariaH_App_-_Scrollable_or_not.jpg)
 
 
+## Iconic representation
+One common design element used in a variety of design contexts is iconic representation. Icons are like a universal language; they can communicate ideas clearly and concisely across language boundaries. What's noteworthy is Instagram's skillful use of icons in all of its menu options—it completely avoids using textual labels. Instagram's design approach produces a clean, simple interface with minimal visual clutter. Even interacting with other users' posts is done through icons, which lowers visual noise and increases user engagement.
 
+Comparably, Beraria H takes a similar tack and mostly uses icons for navigation. There are text buttons from time to time, but iconographic navigation is pretty common method. Icons are used, for example, to represent the user account and the hamburger menu, which helps to create a visually simplified interface. By reducing on-screen distractions, this deliberate design decision enhances users' ability to focus on the app's content. This methodical approach is in line with the design principles of simplicity and user-focused design, guaranteeing visitors to Beraria H a smooth and distraction-free experience.
 
+![BerariaH_App_-_Icon_representation](uploads/5fc6c0c2f9b84dd980640160c304bd64/BerariaH_App_-_Icon_representation.jpg)
+
+## Inverted pyramid
+The "Inverted Pyramid" design concept is centred on the strategic organisation of information. It makes sure users understand the main points before getting into the finer points by giving priority to displaying the most relevant and important information first.
+
+This design philosophy is reflected in Beraria H's web application layout, which is similar to the methodology used in Instagram's profile design. Critical messages are prominently displayed beneath the titles of each section on Beraria H's homepage, making it easy for users to quickly grasp the main points of the material.
+
+Beraria H employs a comparable methodology. When navigating through the homepage, the user is greeted with the title, image and a short description of the section.  The chronological display is preceded by interaction options like a "Read more" button. 
+
+Beraria H uses colour contrast strategically to intensify the effect; this idea is further discussed in the "Colours" section. The design guarantees that users' attention is directed precisely where it matters and that the user experience is optimised for effective engagement by making the most important information visually distinct.
+
+![BerariaH_App_-_Inverte_pyramid](uploads/10e47a112a936ab0a1108115c04a3c45/BerariaH_App_-_Inverte_pyramid.jpg)
 
 
 
