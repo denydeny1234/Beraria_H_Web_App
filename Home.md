@@ -15,10 +15,6 @@
 
 [**Guide Version.png**](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
 
-## About the project
-
-### Problem
-
 ## **Introduction:**
 
 I'm Deny, a 21-year-old from Romania. Besides studying, I love driving and exploring the mountains. I'm passionate about creativity and technology, and I aim to become a Full-stack developer and start my own business.
