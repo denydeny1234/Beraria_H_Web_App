@@ -11,3 +11,8 @@ Design principles play a pivotal role in shaping effectiveness of the Beraria H 
 - [ ] - **Representation:** Infuse design elements that echo the distinctive personality of Beraria h creating a digital space that resonates with the brand's physical presence.
 - [ ] - **Innovation:**  Support creative solutions and forward-thinking design approaches that elevate Beraria h’s web app above industry standards. 
 - [ ] - **Adaptability:** Create a design foundation that can evolve with technological advances user feedback and the expansion of Beraria H products.
+
+# Brand alignment
+
+## Overview
+The web app's design is delicately aligned with the brand identity of Beraria H. The web app serves as a digital extension of the unique personality of Beraria H, embodying its vibrant atmosphere and commitment to providing an exceptional customer experience.
