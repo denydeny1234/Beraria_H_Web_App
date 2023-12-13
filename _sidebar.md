@@ -54,6 +54,6 @@
 ### Targeted interaction
 
 * Media Products
-* Beraria H UI
+* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
 * Definition of done
 * Feed pulse
