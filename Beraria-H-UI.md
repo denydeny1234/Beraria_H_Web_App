@@ -64,6 +64,11 @@ Given that Beraria H's current website lacks any visual components other than ev
 
 ![BerariaH_App_-_Personal_implementations_-_3-2](uploads/48d543754d2c32cb94d326f1adaf4a11/BerariaH_App_-_Personal_implementations_-_3-2.jpg)
 
+### Seats
+On the current website of Beraria H, there is a seating plan, not that clear, that displays the seat categories. However, it is not visible, as there is only a link surrounded by a lot of text. That is why I came up with a solution of creating 3 different visuals according to the categories, that are displayed right where the user chooses the category.
+
+![BerariaH_App_-_Personal_implementations_-_4](uploads/14b82e0c67f0e7ee56ea8ea331c0178b/BerariaH_App_-_Personal_implementations_-_4.jpg)
+
 ## Competitor analyses ideas
 After analysing the [competitors of Beraria H](url), I put aside all the features I could find that I thought would be good to add on Beraria H's website. 
 
