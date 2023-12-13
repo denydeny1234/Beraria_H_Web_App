@@ -22,3 +22,4 @@ I started organising the project to create a distinct beginning point after deci
 
 After that, I created a comprehensive list that captured all of the ideas that were circulating around my mind for features that would improve the app's usability. This exhaustive list served as an inspiration for enhancing the prototype, as I  converted them into concrete elements within the layout.
 
+![BerariaH_App_-_Features_list](uploads/7442357e741b66451020a5d549184611/BerariaH_App_-_Features_list.jpg)
