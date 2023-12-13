@@ -14,9 +14,11 @@ It's interesting to note that even though each prototype had distinct features t
 ![BerariaH_App_-_Best_features](uploads/22e5dda915400237f1c4aa610f31860a/BerariaH_App_-_Best_features.jpg)
 
 
-## Chosen prototype
+## Personal organisation
 I started organising the project to create a distinct beginning point after deciding which direction to take. This required creating a list of pages that needed to be designed, a process that was guided by an analysis of Beraria H's current website and a careful look at the features offered by competitors.  This tactical approach guaranteed a comprehensive understanding of the project scope and established the groundwork for a well-structured and competitive web application for Beraria H.
 
 
 ![Screenshot_2023-12-13_at_16.18.15](uploads/b9057b48dbcc8b44d06f6e334188c425/Screenshot_2023-12-13_at_16.18.15.png)
+
+After that, I created a comprehensive list that captured all of the ideas that were circulating around my mind for features that would improve the app's usability. This exhaustive list served as an inspiration for enhancing the prototype, as I  converted them into concrete elements within the layout.
 
