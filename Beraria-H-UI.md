@@ -83,3 +83,7 @@ A social media slider on the homepage showing some posts from the company's soci
 ![BerariaH_App_-_Competitors_implementations_-_3](uploads/eb35aab2733ed80e0e7d5194f0ad627d/BerariaH_App_-_Competitors_implementations_-_3.jpg)
 
 
+## What have I learnt?
+This is the first time I made a prototype functional at this level. I learned how to work with the "Prototype" option, create overlays and use components. It is interesting how you can make the prototype almost identical to an actual website. 
+
+However, making the design functional was not the difficult part. What was the hardest was thinking about creating a smooth process to actually make everything as easier as possible for users. Besides the testings made with the users, I also put myself in their shows, as I am a Beraria H client myself and did my best in thinking what would I like to find on their website.
