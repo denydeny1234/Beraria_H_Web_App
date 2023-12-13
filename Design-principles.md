@@ -100,7 +100,7 @@ People are naturally drawn to patterns and consistency, and this preference for 
 
 Instagram's design philosophy is a clear illustration of this idea in action. Instagram posts follow a unique format that is carefully designed. This intentional consistency is a strategic decision rather than a restriction. It is essential to maintaining a consistent user experience because it offers a stable and dependable interface independent of the distinctive content that each user creates. That is why after testing and various opinions regarding the comments section, I took the decision of making it non-scrollable in order to respect Instagram's style.
 
-![BerariaH_App_-_Scrollable_or_not](uploads/97808e2915f4437d2f50e284690af139/BerariaH_App_-_Scrollable_or_not.jpg)
+
 
 
 ## Iconic representation
