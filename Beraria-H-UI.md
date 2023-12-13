@@ -1,6 +1,8 @@
 ## Introduction
 I used Figma as my main design tool when creating the user interface for the web application. You can click [this link](https://www.figma.com/file/YvT4znDvd3RzES22pEyV45/BerariaH-Scheduler-App?type=design&node-id=0%3A1&mode=design&t=698ULMTXIfplJgDL-1) to view the entire collection of designs. Robust research methods, including actual [user testing](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Usertests) and iterative improvements targeted at improving the overall user experience, were carefully considered in the creation of these designs. Designing was more than just an artistic endeavour; it was a user-centered, strategic process that made sure that every pixel matched user preferences and expectations.
 
+[**Figma demo**](https://www.figma.com/proto/YvT4znDvd3RzES22pEyV45/BerariaH-Scheduler-App?type=design&node-id=587-327&t=PyFh0o0ETKm4PKJO-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=587%3A327&show-proto-sidebar=1&mode=design)
+
 ## Choosing the design path
 I started the design process by making three different homepages in an attempt to find the best fit for the company's brand. After every iteration, I carefully gathered feedback.  The iterative process of this approach revealed that the third version offered an unmatched user experience, distinguished by smooth navigation, while also connecting most authentically with the brand's core values.
 
@@ -61,3 +63,23 @@ Additionally, a persistent floating icon stays visible for the course of the scr
 Given that Beraria H's current website lacks any visual components other than event posters, I saw the potential benefit of providing users with a more immersive experience, particularly in terms of capturing the ambiance during performances. I added a "Gallery" button to each event page in order to address this. Users are automatically redirected to Magneto, an external website, upon clicking this button. This platform features an edited selection of excellent photos taken at the artist's most recent event by a professional photographer. The goal is to take viewers on a visual journey that will enhance their understanding and excitement for upcoming performances by giving them a peek of the distinct atmosphere and energy of the performances.
 
 ![BerariaH_App_-_Personal_implementations_-_3-2](uploads/48d543754d2c32cb94d326f1adaf4a11/BerariaH_App_-_Personal_implementations_-_3-2.jpg)
+
+## Competitor analyses ideas
+After analysing the [competitors of Beraria H](url), I put aside all the features I could find that I thought would be good to add on Beraria H's website. 
+
+### Feature 1
+A homepage with multiple sections that would show all the pages that could be found on the whole website. This allows an easier browsing, so I thought it would great to add it on the website.
+
+![BerariaH_App_-_Competitors_implementations_-_1](uploads/1dad516a65ecf993e0177fc3ec51850f/BerariaH_App_-_Competitors_implementations_-_1.jpg)
+
+### Feature 2
+A shortcut in the right bottom corner.
+
+![BerariaH_App_-_Competitors_implementations_-_2](uploads/6bca22ad852396e4dabde4b8ab021ac3/BerariaH_App_-_Competitors_implementations_-_2.jpg)
+
+### Feature 3
+A social media slider on the homepage showing some posts from the company's socials.
+
+![BerariaH_App_-_Competitors_implementations_-_3](uploads/eb35aab2733ed80e0e7d5194f0ad627d/BerariaH_App_-_Competitors_implementations_-_3.jpg)
+
+
