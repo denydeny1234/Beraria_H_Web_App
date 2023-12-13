@@ -138,10 +138,10 @@ Users should be able to seamlessly find what they’re looking for on the web ap
 
 The insights gathered from the testings have provided valuable feedback to enhance the user experience of the Beraria H app. The implementation of these insights into the final prototype aims to address user concerns, improve overall usability, and ensure that the app not only meets but exceeds user expectations.
 
-## Testing 3: testing features through feedback
+# Testing 3: testing features through feedback
 As it was pretty hard to come up with solutions to all the problems there are on the current website of Beraria H, I asked for feedback from potential users for multiple features I have worked on. 
 
-### Feature 1: Seat categories
+## Feature 1: Seat categories
 As displaying a 3D seat plan was not a realistic feature, as I don't have the resources, I had to think about a different way of showing people the options through visuals. 
 
 **Phase 1:** The obvious way was to create a 2D plan. But how should it look? I first thought about designing some tables in rectangle shapes and adding circles for each seat, but after talking to the marketing team and telling me that people can't choose a specific seat, but only a category, I realised that this option was not good. 
