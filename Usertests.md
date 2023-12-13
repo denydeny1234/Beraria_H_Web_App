@@ -138,6 +138,19 @@ Users should be able to seamlessly find what they’re looking for on the web ap
 
 The insights gathered from the testings have provided valuable feedback to enhance the user experience of the Beraria H app. The implementation of these insights into the final prototype aims to address user concerns, improve overall usability, and ensure that the app not only meets but exceeds user expectations.
 
+## Testing 3: testing features through feedback
+As it was pretty hard to come up with solutions to all the problems there are on the current website of Beraria H, I asked for feedback from potential users for multiple features I have worked on. 
+
+### Feature 1: Seat categories
+As displaying a 3D seat plan was not a realistic feature, as I don't have the resources, I had to think about a different way of showing people the options through visuals. 
+
+**Phase 1:** The obvious way was to create a 2D plan. But how should it look? I first thought about designing some tables in rectangle shapes and adding circles for each seat, but after talking to the marketing team and telling me that people can't choose a specific seat, but only a category, I realised that this option was not good. 
+
+**Phase 2:** Phase 2 was to actually take the actual image with the seat plan from their website and add it as a general picture right when the user chooses the category. In the end, I thought that looks too bad and has nothing to do with the app I am designing, so I tried to design it myself in Photoshop.
+
+**Phase3:** The phase 3 was a succes in the end, as finally I could find the right design for the app. I coloured each category with the specific orange colour of the brand, and split the seats into categories through buttons: "Category A", "Category B", "Category C". I also personalised the terrace with little umbrellas and little chairs and emphasised the stage with a white colour and the right illustration.
+
+![BerariaH_App_-_Feedback_testing](uploads/441a6adb5fff8aba2eb3af052929a755/BerariaH_App_-_Feedback_testing.jpg)
 
 
 
