@@ -34,3 +34,7 @@ I added an automatic slider to the homepage that would display all of the events
 ![BerariaH_App_-_Stakeholders_implementations](uploads/35228468ea0debb1c5a0ee56964a470c/BerariaH_App_-_Stakeholders_implementations.jpg)
 
 
+### Implementation 2
+One crucial component of the design was the ability to reserve a table, even for users who aren't interested in going to a show. Realising how important it was, I added a "Sneak Peek" section right to the homepage. In addition, a special page was created to address this feature, guaranteeing a smooth and convenient booking process for individuals wishing to book a table without having to attend an event. This deliberate design decision highlights the company's dedication to offering flexible and accommodating features in the Beraria H web app while also improving accessibility.
+
+![BerariaH_App_-_Stakeholders_implementations_-_2](uploads/1f62e48dfe3c2492024bee15f2d08016/BerariaH_App_-_Stakeholders_implementations_-_2.jpg)
