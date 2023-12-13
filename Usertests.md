@@ -158,7 +158,7 @@ As displaying a 3D seat plan was not a realistic feature, as I don't have the re
 
 ![BerariaH_App_-_Feedback_testing](uploads/441a6adb5fff8aba2eb3af052929a755/BerariaH_App_-_Feedback_testing.jpg)
 
-## Feature 2
+## Feature 2: Vertical scrolling
 As vertical scrolling was too confusing for users taking into account that the page is already scrollable, I changed the "Facts" and "Press" sections with a "Read more" button that open popups. In this way, the scrolls won't overlay.
 
 ![Screenshot_2023-12-13_at_18.52.42](uploads/af3cb29e8975f9f3864692cf36b68f84/Screenshot_2023-12-13_at_18.52.42.png)
