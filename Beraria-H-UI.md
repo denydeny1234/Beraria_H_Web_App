@@ -1,0 +1,2 @@
+## Introduction
+I used Figma as my main design tool when creating the user interface for the web application. You can click this link to view the entire collection of designs. Robust research methods, including actual user testing and iterative improvements targeted at improving the overall user experience, were carefully considered in the creation of these designs. Design was more than just an artistic endeavour; it was a user-centered, strategic process that made sure that every pixel matched user preferences and expectations.
