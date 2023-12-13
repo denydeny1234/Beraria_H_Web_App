@@ -23,3 +23,14 @@ I started organising the project to create a distinct beginning point after deci
 After that, I created a comprehensive list that captured all of the ideas that were circulating around my mind for features that would improve the app's usability. This exhaustive list served as an inspiration for enhancing the prototype, as I  converted them into concrete elements within the layout.
 
 ![BerariaH_App_-_Features_list](uploads/7442357e741b66451020a5d549184611/BerariaH_App_-_Features_list.jpg)
+
+## Meeting stakeholders requirements
+
+I started by concentrating on the specific features that the stakeholders had in mind for their future app, and then I thought about additional features that would enhance the overall customer-company experience.
+
+### Implementation 1
+I added an automatic slider to the homepage that would display all of the events "Today" along with a button that indicates the number of shows, as they wanted customers to be able to easily see that there are more events in a single day.
+
+![BerariaH_App_-_Stakeholders_implementations](uploads/35228468ea0debb1c5a0ee56964a470c/BerariaH_App_-_Stakeholders_implementations.jpg)
+
+
