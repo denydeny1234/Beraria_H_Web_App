@@ -60,4 +60,4 @@ Additionally, a persistent floating icon stays visible for the course of the scr
 ### Gallery
 Given that Beraria H's current website lacks any visual components other than event posters, I saw the potential benefit of providing users with a more immersive experience, particularly in terms of capturing the ambiance during performances. I added a "Gallery" button to each event page in order to address this. Users are automatically redirected to Magneto, an external website, upon clicking this button. This platform features an edited selection of excellent photos taken at the artist's most recent event by a professional photographer. The goal is to take viewers on a visual journey that will enhance their understanding and excitement for upcoming performances by giving them a peek of the distinct atmosphere and energy of the performances.
 
-![BerariaH_App_-_Personal_implementations_-_3](uploads/5a089da1b36a60e9f76572fc1d80a07a/BerariaH_App_-_Personal_implementations_-_3.jpg)
+![BerariaH_App_-_Personal_implementations_-_3-2](uploads/48d543754d2c32cb94d326f1adaf4a11/BerariaH_App_-_Personal_implementations_-_3-2.jpg)
