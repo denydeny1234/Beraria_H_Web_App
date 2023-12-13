@@ -57,7 +57,7 @@ This fundamental idea focuses on eliminating uncertainty from user interactions 
 
 See how the reservation process came to an end below, right before testing started. Explore the iterations used to improve this important step, which demonstrates my dedication to perfecting every detail for the most convenient and effective experience. By adhering to this principle, I aim to clarify any uncertainties users might have and guarantee that each action is not only validated but also completely final.
 
-![BerariaH_App_-_Ensuring_clarity_in_users__39__actions](uploads/5bd91f0132896d0bdd0bb06d7efc0f9d/BerariaH_App_-_Ensuring_clarity_in_users__39__actions.jpg)
+![BerariaH_App_-_Ensuring_clarity_in_users__39__actions-2](uploads/ef7b9d53dd82f1e1d1a210bab908dfd5/BerariaH_App_-_Ensuring_clarity_in_users__39__actions-2.jpg)
 
 
 # Mobile design principles
