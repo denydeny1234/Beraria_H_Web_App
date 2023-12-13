@@ -107,23 +107,28 @@ Users should be able to seamlessly find what they’re looking for on the web ap
 - [ ] **Observation:** Tests indicated that a scrollable comments section is preferable for the mobile app.
 - [ ] **Consequences:** Scrollable comments overlaying with the page's scroll.
 - [ ] **Possible solution:** Implement a solution to address the overlay issue while maintaining the scrollable feature for improved mobile usability.
+- [ ] **Problem solved:** I chose to make the comments section non-scrollable in order to stick to the Instagram style, a design that people are already used to.
 
 #### Visibility of "Say Your Impression" Option:
 
 - [ ] **Observation:** The "Say Your Impression" option was not visible enough.
 - [ ] **Possible solution:** Transform it into a floating feature in the bottom right corner to enhance visibility and accessibility.
+- [ ] **Problem solved:** I created a right bottom corner floating option that has a "Comments" icon. To make it more visible, I added a red number bullet, that displays the number of comments the user is going to find in that section.
 
 #### Total Reservation Cost Calculation:
 
 - [ ] **Recommendation:** Introduce a feature that calculates and displays the total cost for reserving a table, enhancing transparency for users.
+- [ ] **Problem solved:** I did not implement such option, as from Beraria H's website users can only reserve a table. However, I added a button "Buy ticket" that people can access in order to purchase the tickets. 
 
 #### Filter Option for Availability:
 
 - [ ] **Suggestion:** Consider adding a filter option for "Availability," such as "Only a Few Left," to streamline user choices.
+- [ ] **Problem solved:** Filter with "Only a few left" added. 
 
 #### Overlayed Text with Images:
 
 - [ ] **Check:** Evaluate the overlayed text with images to ensure clarity and readability.
+- [ ] **Problem solved:** Text is not overlaying with images anymore.
 
 #### Clickable Food and Drinks Container:
 
@@ -133,6 +138,7 @@ Users should be able to seamlessly find what they’re looking for on the web ap
 
 - [ ] **Observation:** Users expressed a need for more information about foods and drinks.
 - [ ] **Possible Solution:** Explore the current QR code on the Beraria H menu, where nutritional information is stated
+- [ ] **Problem solved:** I added a button right where the category of food is displayed, that people can access to see more nutritional information about that category.
 
 ## Conclusion
 
