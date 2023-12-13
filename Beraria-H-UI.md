@@ -38,3 +38,25 @@ I added an automatic slider to the homepage that would display all of the events
 One crucial component of the design was the ability to reserve a table, even for users who aren't interested in going to a show. Realising how important it was, I added a "Sneak Peek" section right to the homepage. In addition, a special page was created to address this feature, guaranteeing a smooth and convenient booking process for individuals wishing to book a table without having to attend an event. This deliberate design decision highlights the company's dedication to offering flexible and accommodating features in the Beraria H web app while also improving accessibility.
 
 ![BerariaH_App_-_Stakeholders_implementations_-_2](uploads/1f62e48dfe3c2492024bee15f2d08016/BerariaH_App_-_Stakeholders_implementations_-_2.jpg)
+
+
+## My own ideas
+Following careful evaluation of the stakeholders' most pressing needs, I looked into and introduced new ideas to improve the project. The following are some features that came out during this creative stage:
+
+### Personalised recommendations
+I was determined to give the web application a personalised touch even though I didn't dive into the coding. The "Add to Favourites" feature was created as a result of this.
+
+**Scenario: Let's say you're excited to see a particular artist perform live, but all the tickets are sold out. You may add them to your favourites list to be informed when they make future appearances at Beraria H. In this manner, you'll be informed when the artist comes back.**
+
+![BerariaH_App_-_Personal_implementations_-_1](uploads/b61829acd0aecc2f172419d936336ef4/BerariaH_App_-_Personal_implementations_-_1.jpg)
+
+### Meet the community
+Understanding how important it is to build a sense of community, I added an Instagram-style comments section to the app. By sharing their experiences with the artist they are interested in, users can interact with others through this feature. Users can easily watch the most recent show in this section, along with interactive features like "Add to Favourites," "Leave a Comment," and "Share." This fosters a sense of community while simultaneously giving users an overview of the live performances that took place of their favourite artists. This helps users estimate the atmosphere and set expectations for what to expect.
+
+Additionally, a persistent floating icon stays visible for the course of the scrolling experience, advising users continuously to the availability of this particular feature on the website. Additionally, this symbol further displays a number that indicates how many comments are present in that particular area. This design decision guarantees that users always know when a feature is available and gives them a quick overview of the level of interaction in the comment section.
+
+![BerariaH_App_-_Personal_implementations_-_2](uploads/a8d50a05832416a92d03ceaa2f3e24c0/BerariaH_App_-_Personal_implementations_-_2.jpg)
+
+### Gallery
+
+
