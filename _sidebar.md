@@ -18,7 +18,7 @@
 ### Professional duties
 
 * [User stories](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/User-stories)
-* Definition of done
+* [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
 * Double diamond
 * Miro
@@ -74,7 +74,7 @@
 
 * [User stories](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/User-stories)
 * YellowTickets partner
-* Definition of done
+* [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
 * Peer reviews
 * Feedpulse
