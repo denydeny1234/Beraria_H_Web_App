@@ -51,7 +51,6 @@
 * [Competitor analyses](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Competitor-analyses)
 * [Written interviews](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Written-Interviews)
 * [Personas](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Personas)
-* Current situation
 * [HMW questions](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/HMW-questions)
 * [User stories](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/User-stories)
 * [Design challenge](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-challenge)
