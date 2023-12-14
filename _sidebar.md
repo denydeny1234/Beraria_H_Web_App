@@ -62,7 +62,7 @@
 
 ### Personal leadership
 * [Contact with Ioana](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Contact-with-Ioana)
-* Feedpulse
+* [Feedpulse](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Feedpulse)
 * [Double diamond](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Double-diamond)
 * [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
 * [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
@@ -73,5 +73,5 @@
 * [YellowTickets partner](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/YellowTickets-partner)
 * [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
-* Feedpulse
+* [Feedpulse](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Feedpulse)
 * [Contact with Ioana](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Contact-with-Ioana)
