@@ -6,3 +6,7 @@
 ### Moscow Method
 
 ![Denisa_Coteanu_BerariaH_MoscowMethod](uploads/ac058f952bb4de83c6ce4196f13cf82d/Denisa_Coteanu_BerariaH_MoscowMethod.png)
+
+## Update
+
+It was not practical to directly implement the "Secure payment must have" feature on the main website because Beraria H chose to continue working with YellowTickets, an outside website for ticket purchases. Instead, my attention turned to improving user comprehension of Beraria H's purchasing procedures and enabling easy access to the ticketing website.  I have developed a simplified method to lead users to their destination with ease. Please see the following section for a more thorough explanation: [YellowTickets partner.](url)
