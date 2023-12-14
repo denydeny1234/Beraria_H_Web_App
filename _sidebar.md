@@ -66,7 +66,7 @@
 * Feedpulse
 * [Double diamond](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Double-diamond)
 * [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
-* Notes organization
+* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
 
 ### Targeted interaction
 
