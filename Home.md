@@ -19,4 +19,5 @@
 
 I'm Deny, a 21-year-old from Romania. Besides studying, I love driving and exploring the mountains. I'm passionate about creativity and technology, and I aim to become a Full-stack developer and start my own business.
 
-**Feel free to explore my journey and project!**
+## **Links**
+[Project plan](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/uploads/972253c9a573cdac707c83d78c8400b3/Denisa_Coteanu_Project_Plan_BerariaH.pdf)
