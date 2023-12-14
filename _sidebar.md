@@ -74,4 +74,4 @@
 * [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
 * Feedpulse
-* Contact with Fontys mentor
+* [Contact with Ioana](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Contact-with-Ioana)
