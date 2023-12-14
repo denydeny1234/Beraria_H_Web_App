@@ -26,7 +26,7 @@
 * [Design challenge](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-challenge)
 * [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
 * [Beraria H styleguide](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-styleguide)
-* Beraria H communication
+* [Beraria H communication](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-communication)
 * Working at Beraria H
 
 ### Situation-oriented
