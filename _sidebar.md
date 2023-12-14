@@ -59,7 +59,6 @@
 * [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
 * [Beraria H design principles](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-principles)
-* Peer reviews
 
 ### Personal leadership
 * Contact with Fontys mentor
