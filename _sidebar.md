@@ -72,7 +72,7 @@
 ### Targeted interaction
 
 * [User stories](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/User-stories)
-* YellowTickets partner
+* [YellowTickets partner](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/YellowTickets-partner)
 * [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
 * Peer reviews
