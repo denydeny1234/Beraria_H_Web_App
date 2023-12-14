@@ -42,7 +42,7 @@
 
 ### **Investigative Problem Solving**
 
-* A day at Beraria H
+* [A day at Beraria H](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/A-day-at-Beraria-H)
 * [Concept document](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Concept-document)
 * [Brainstorm (Discover Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Discover-phase))
 * [Brainstorm (Develop Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Develop-Phase))
