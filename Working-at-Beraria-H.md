@@ -1,9 +1,9 @@
 ## Introduction
 Starting an enjoyable internship in the field of media design at Beraria H provided a comprehensive educational opportunity. In addition to helping with the web app's design, I was involved in creating visuals for their live events by making excellent posters.
 
-- **Check my posters portrait**[](url)
-- **Check my posters cover**[](url)
-- **Check my posters square**[](url)
+- [Check my posters portrait](url)
+- [Check my posters cover](url)
+- [Check my posters square](url)
 
 ## Learning photoshop
 
