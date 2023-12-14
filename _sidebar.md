@@ -61,7 +61,7 @@
 * [Beraria H design principles](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-principles)
 
 ### Personal leadership
-* Contact with Ioana
+* [Contact with Ioana](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Contact-with-Ioana)
 * Feedpulse
 * [Double diamond](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Double-diamond)
 * [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
