@@ -171,7 +171,8 @@ I wanted to do one last test to find out what problems the app still has after g
 - [Testing video 2: Marian, 58 years old, client Beraria H](https://youtu.be/OnQseqQyDM8)
 - [Testing 3: Isabella: 18 years old, client Beraria H](https://youtu.be/Z7JajyfsH9I)
 
-
+[Link to Miro for a clearer image](https://miro.com/app/board/uXjVMj2Vrlo=/?moveToWidget=3458764573436938528&cot=14)
+![BerariaH_App_-_Final_Testing](uploads/5449aacce2b0a27243e897760f3088a3/BerariaH_App_-_Final_Testing.jpg)
 
 
 
