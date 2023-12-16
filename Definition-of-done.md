@@ -5,22 +5,17 @@
 ## Definition of done
 
 1. **User registration and login for event attendees:**
-   * User registration form is designed and functional.
-   * User login functionality is implemented, allowing registered users to access their accounts. **_(future development, it depends on the time I have remained from my internship)_**
-   * User authentication is secure and robust. **_(future development, it depends on the time I have remained from my internship)_**
 2. **Event listing and search functionality:**
    * A user-friendly event listing page is created, showcasing upcoming events.
-   * Search functionality is integrated, enabling users to search for events by various criteria such as date, genre, location, etc. **_(future development, it depends on the time I have remained from my internship)_**
-   * Search results are accurate and responsive.
+   * Search functionality is integrated, enabling users to search for events by various criteria such as date, genre, location, etc. 
 3. **Detailed event descriptions and information:**
    * Event descriptions are added for each listed event, providing comprehensive information.
    * Event details include date, time, venue, pricing, performers, and any other relevant information.
    * The information is structured and presented in an easily understandable format.
 4. **Secure ticket purchasing and payment processing:**
-   * A secure payment gateway is integrated to handle ticket purchases. **_(future development, it depends on the time I have remained from my internship)_**
-   * Users can add tickets to their cart, review their order, and proceed to payment securely.
+   * Users can easily find the path to purchasing a tickets.
 5. **Visuals such as posters of the events:**
-   * Visual assets, such as event posters and promotional images, are uploaded and displayed alongside event listings.
+   * Visual assets, such as event posters are uploaded and displayed alongside event listings.
    * Visuals are high-quality and visually appealing.
 6. **Good filter:**
    * Filtering options are available to refine event search results.
