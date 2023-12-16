@@ -37,7 +37,7 @@ I created the following rules to guarantee an enjoyable and comfortable reading 
 The need for consistency across multiple platforms and devices led to the development of a style guide. This styleguide will be useful for upcoming desktop app implementations, as my project primarily focuses on the mobile version of the application. By guaranteeing a cohesive user experience, it strengthens the Beraria H brand.
 
 ### User centric design
-Readability and user-friendly interactions were taken into consideration when selecting fonts and sizes. The results of user testing revealed how crucial readable and clear text is to a satisfying user experience. Since the "About us" page has the most text, that is where the majority of the testing was done. [Check the tests.](url)
+Readability and user-friendly interactions were taken into consideration when selecting fonts and sizes. The results of user testing revealed how crucial readable and clear text is to a satisfying user experience. Since the "About us" page has the most text, that is where the majority of the testing was done. [Check the tests.](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Usertests)
 
 ### Brand representation
 The brand personality of Beraria H was intended to be reflected in the colour scheme. My choice was impacted by the information I learned from competitor analysis, since the black tones combined with a striking colour most closely matched an event app.
