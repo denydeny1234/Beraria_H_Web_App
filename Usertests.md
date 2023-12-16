@@ -4,7 +4,7 @@ As I delved into the design phase, I recognized the critical need to validate an
 
 # Testing 1: Choose design path
 
-The initiation of the design process prompted a crucial decision-making phase where I sought to identify the most effective approach for Beraria H's digital identity. To accomplish this, I committed to developing [three distinct prototypes](url) for the homepage. The primary goal was to ascertain which design would best encapsulate Beraria H's identity.
+The initiation of the design process prompted a crucial decision-making phase where I sought to identify the most effective approach for Beraria H's digital identity. To accomplish this, I committed to developing [three distinct prototypes](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI) for the homepage. The primary goal was to ascertain which design would best encapsulate Beraria H's identity.
 
 ## Gathering clients' feedback
 
