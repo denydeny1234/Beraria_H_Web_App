@@ -166,7 +166,8 @@ As vertical scrolling was too confusing for users taking into account that the p
 # Testing 4: Final app
 I wanted to do one last test to find out what problems the app still has after going through all the revisions and user feedback. 
 
-
+## User testings
+[Claudia, 50 years old, client Beraria H](https://youtu.be/iC96uHAjLEE)
 
 
 
