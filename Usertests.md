@@ -167,7 +167,9 @@ As vertical scrolling was too confusing for users taking into account that the p
 I wanted to do one last test to find out what problems the app still has after going through all the revisions and user feedback. 
 
 ## User testings
-[Claudia, 50 years old, client Beraria H](https://youtu.be/iC96uHAjLEE)
+- [Testing video 1: Claudia, 50 years old, client Beraria H](https://youtu.be/iC96uHAjLEE)
+- [Testing video 2: Marian, 58 years old, client Beraria H](https://youtu.be/OnQseqQyDM8)
+- [Testing 3: Isabella: 18 years old, client Beraria H](https://youtu.be/Z7JajyfsH9I)
 
 
 
