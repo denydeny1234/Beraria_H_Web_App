@@ -31,13 +31,13 @@
 
 ### Situation-oriented
 
-* [Debriefing](https://www.canva.com/design/DAFuVYHshKM/b4DhMn8Lq4TcaZgLgAZr9A/edit?utm_content=DAFuVYHshKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Debriefing](https://www.canva.com/design/DAFuVYHshKM/id7qFvpRB2HfE2R_1mLO-Q/view?utm_content=DAFuVYHshKM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 ### **Future-Oriented Organisation**
 
 * [Concept document](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Concept-document)
-* [Debriefing](https://www.canva.com/design/DAFuVYHshKM/b4DhMn8Lq4TcaZgLgAZr9A/edit?utm_content=DAFuVYHshKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Debriefing](https://www.canva.com/design/DAFuVYHshKM/id7qFvpRB2HfE2R_1mLO-Q/view?utm_content=DAFuVYHshKM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [Project plan](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/uploads/972253c9a573cdac707c83d78c8400b3/Denisa_Coteanu_Project_Plan_BerariaH.pdf)
 
 ### **Investigative Problem Solving**
