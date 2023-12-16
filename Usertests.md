@@ -163,6 +163,8 @@ As vertical scrolling was too confusing for users taking into account that the p
 
 ![Screenshot_2023-12-13_at_18.52.42](uploads/af3cb29e8975f9f3864692cf36b68f84/Screenshot_2023-12-13_at_18.52.42.png)
 
+# Testing 4: Final app
+
 
 
 
