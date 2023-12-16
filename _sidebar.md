@@ -4,7 +4,7 @@
 
 ### Guide
 
-* Guide
+* [Guide](uploads/dd963cf04578e47af0e608fb858ec145/Denisa_Coteanu_Project_Report_BerariaH.pdf)
 
 ### Learning outcomes
 
