@@ -13,7 +13,7 @@
 
 <span dir="">This Git repository has all my work and files. If you want to dig deeper into how I did everything, check out my guide</span>:
 
-[**Guide Version.png**](/I476087/internship_berariah_s5_2023/-/wikis/www.google.com)
+[Guide V1.1](uploads/526cc346abbd983537636080e58e2cea/Denisa_Coteanu_Project_Report_BerariaH.pdf)
 
 ## **Introduction:**
 
