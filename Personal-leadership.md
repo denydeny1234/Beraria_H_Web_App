@@ -4,4 +4,4 @@ My entrepreneurial approach to project planning and content development was refl
 * [Feedpulse](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Feedpulse)
 * [Double diamond](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Double-diamond)
 * [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
-* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
+* [Beraria H Design](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-Design)
