@@ -1,7 +1,6 @@
 I overcame obstacles by embracing investigative problem-solving and utilising a range of tactical techniques. I improved my problem-solving abilities through immersive experiences like the strategic application of brainstorming and user testing. My broad toolkit of research techniques, which included empathy maps, competitor analyses, and library research, enabled me to not only recognise issues but also develop workable solutions that were approved by stakeholders.
 
 * [A day at Beraria H](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/A-day-at-Beraria-H)
-* [Concept document](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Concept-document)
 * [Brainstorm (Discover Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Discover-phase))
 * [Brainstorm (Develop Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Develop-Phase))
 * [Library research](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Library-research)
