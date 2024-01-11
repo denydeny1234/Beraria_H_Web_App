@@ -52,7 +52,7 @@
 * [HMW questions](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/HMW-questions)
 * [User stories](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/User-stories)
 * [Design challenge](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-challenge)
-* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
+* [Beraria H Design](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
 * [Usertests](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Usertests)
 * [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
@@ -63,7 +63,7 @@
 * [Feedpulse](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Feedpulse)
 * [Double diamond](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Double-diamond)
 * [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
-* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
+* [Beraria H Design](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
 
 ### Targeted interaction
 
