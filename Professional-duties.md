@@ -7,7 +7,7 @@ As part of my job, I was involved in the creation of the web application for Ber
 * [Miro board](https://miro.com/app/board/uXjVMj2Vrlo=/?share_link_id=443120629052)
 * [Clickup managment](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Clickup-management)
 * [Design challenge](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-challenge)
-* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
+* [Beraria H Design](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-Design)
 * [Beraria H styleguide](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-styleguide)
 * [Beraria H communication](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-communication)
 * [Working at Beraria H](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Working-at-Beraria-H)
