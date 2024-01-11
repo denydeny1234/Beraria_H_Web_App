@@ -11,7 +11,7 @@ I overcame obstacles by embracing investigative problem-solving and utilising a 
 * [HMW questions](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/HMW-questions)
 * [User stories](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/User-stories)
 * [Design challenge](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Design-challenge)
-* [Beraria H UI](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-UI)
+* [Beraria H Design](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Beraria-H-Design)
 * [Usertests](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Usertests)
 * [Definition of done](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Definition-of-done)
 * [Moscow method](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Moscow-method)
