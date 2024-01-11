@@ -1,4 +1,4 @@
 The debriefing procedure was essential to placing my work in the real-world setting of Beraria H. By methodically evaluating and comprehending the project environment, I made sure that my contributions were methodical, structured, and in line with the particular procedures of the company.  I was able to deliver results using this approach that were highly relevant to the needs of different stakeholders.
 
 * [Debriefing](https://www.canva.com/design/DAFuVYHshKM/id7qFvpRB2HfE2R_1mLO-Q/view?utm_content=DAFuVYHshKM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-* [Mid-term presentation](https://www.canva.com/design/DAFzwrqdbSI/GuTRbuQIWK0jfSZCqt5Qpg/view?utm_content=DAFzwrqdbSI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* [Mid-term presentation](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Presentation-mid-term)
