@@ -36,14 +36,12 @@
 
 ### **Future-Oriented Organisation**
 
-* [Concept document](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Concept-document)
 * [Debriefing](https://www.canva.com/design/DAFuVYHshKM/id7qFvpRB2HfE2R_1mLO-Q/view?utm_content=DAFuVYHshKM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [Project plan](https://www.canva.com/design/DAFuPjx9QKI/-xxrsZdwnplrP2yQ3I2fEA/view?utm_content=DAFuPjx9QKI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### **Investigative Problem Solving**
 
 * [A day at Beraria H](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/A-day-at-Beraria-H)
-* [Concept document](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Concept-document)
 * [Brainstorm (Discover Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Discover-phase))
 * [Brainstorm (Develop Phase)](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Brainstorm-(Develop-Phase))
 * [Library research](https://git.fhict.nl/I476087/internship_berariah_s5_2023/-/wikis/Library-research)
